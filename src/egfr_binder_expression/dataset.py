@@ -9,4 +9,6 @@ def get_data():
     dataset = po.load_dataset("adaptyv-bio/egfr-binders-v0")
 
     merged_df = dataset.table.merge(df)
+
+    df['length'] = df['sequence'].apply(len)
     return merged_df
