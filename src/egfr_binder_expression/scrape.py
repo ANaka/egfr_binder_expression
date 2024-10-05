@@ -9,8 +9,12 @@ from webdriver_manager.chrome import ChromeDriverManager
 from tqdm import tqdm
 import pandas as pd
 
-def setup_and_load_page(url='https://foundry.adaptyvbio.com/egfr_design_competition'):
+# necessary to do this because deposited datasets only contain sequences screened for binding ie lack ones that didn't express
+
+def setup_and_load_page(url='https://foundry.adaptyvbio.com/egfr_design_competition', visible=False):
     chrome_options = Options()
+    if not visible:
+        chrome_options.add_argument("--headless")
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
@@ -124,8 +128,8 @@ def next_page(driver):
     except:
         return False
 
-def scrape_all_pages():
-    driver = setup_and_load_page()
+def scrape_all_pages(visible=False):
+    driver = setup_and_load_page(visible=visible)
     
     all_data = []
     page = 0
@@ -147,7 +151,8 @@ def scrape_all_pages():
     return all_data
 
 if __name__ == '__main__':
-    data = scrape_all_pages()
+    visible_browser = input("Do you want to see the browser while scraping? (y/n): ").lower() == 'y'
+    data = scrape_all_pages(visible=visible_browser)
     df = pd.DataFrame(data)
     df.to_csv('data/scraped_egfr_binder_expression.csv', index=False)
     print(f"Scraped {len(data)} rows of data.")
