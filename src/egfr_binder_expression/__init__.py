@@ -1,2 +1,3 @@
-def hello() -> str:
-    return "Hello from egfr-binder-expression!"
+from pathlib import Path
+
+DATA_DIR = Path(__file__).parent.parent / 'data'

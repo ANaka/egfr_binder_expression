@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from tqdm import tqdm
 import pandas as pd
+from egfr_binder_expression import DATA_DIR
 import typer
 
 # necessary to do this because deposited datasets only contain sequences screened for binding ie lack ones that didn't express
@@ -122,7 +123,7 @@ def extract_data(driver: webdriver.Chrome) -> list:
     }
 
     expanded_rows = table_body.find_elements(By.TAG_NAME, "tr")
-
+    current_designer = ''
     datas = []
     for row in expanded_rows:   
         # Create a dictionary to map the data
@@ -151,7 +152,7 @@ def next_page(driver: webdriver.Chrome) -> bool:
         bool: True if successfully navigated to the next page, False otherwise.
     """
     # Scroll to the bottom of the page
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    driver.execute_script("window.scrollTo(0, 1000);")
     time.sleep(2)
     
     try:
@@ -160,7 +161,7 @@ def next_page(driver: webdriver.Chrome) -> bool:
             EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Next')]"))
         )
         next_button.click()
-        time.sleep(3)  # Wait for the page to load
+        time.sleep(5)  # Wait for the page to load
         return True
     except:
         return False
@@ -205,7 +206,7 @@ def main(visible: bool = typer.Option(False, "--visible", "-v", help="Show the b
     """
     data = scrape_all_pages(visible=visible)
     df = pd.DataFrame(data)
-    df.to_csv('data/scraped_egfr_binder_expression.csv', index=False)
+    df.to_csv(DATA_DIR / 'scraped_egfr_binder_expression.csv', index=False)
     print(f"Scraped {len(data)} rows of data.")
 
 if __name__ == '__main__':
