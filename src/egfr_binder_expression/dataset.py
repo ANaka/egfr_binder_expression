@@ -8,7 +8,7 @@ def get_data():
     # Load the dataset from the Hub
     dataset = po.load_dataset("adaptyv-bio/egfr-binders-v0")
 
-    merged_df = dataset.table.merge(df)
+    merged_df = dataset.table.merge(df, how='outer')
 
-    df['length'] = df['sequence'].apply(len)
+    merged_df['length'] = merged_df['sequence'].apply(len)
     return merged_df
