@@ -1,0 +1,751 @@
+designer,design_name,binding,expression,replicates,KD_M_Mean,KD_M_STD_log10,Kon_1_Ms_Mean,Kon_1_Ms_STD_log10,Koff_1_s_Mean,Koff_1_s_STD_log10,sequence,propagated_designer
+,Cetuximab_scFv,True,Low,2,6.64e-9,0.24,9.48e+5,0.30,4.42e-3,0.06,QVQLKQSGPGLVQPSQSLSITCTVSGFSLTNYGVHWVRQSPGKGLEWLGVIWSGGNTDYNTPFTSRLSINKDNSKSQVFFKMNSLQSNDTAIYYCARALTYYDYEFAYWGQGTLVTVSAGGGGSGGGGSGGGGSDILLTQSPVILSVSPGERVSFSCRASQSIGTNIHWYQQRTNGSPRLLIKYASESISGIPSRFSGSGSGTDFTLSINSVESEDIADYYCQQNNNWPTTFGAGTKLELK,
+ahmedsameh,ahmedsameh-Q3,True,Medium,2,3.69e-8,0.07,1.08e+5,0.18,3.76e-3,0.11,WVQLQESGGGLVQPGGSLRLSCAASGRTFSSYAMGWFRQAPGKQREFVAAIRWSGGYTYYTDSVKGRFTISRDNAKTTVYLQMNSLKPEDTAVYYCAATYLSSDYSRYALPQRPLDYDYWGQGTQVTVSSLE,ahmedsameh
+,ahmedsameh-Q3 #1,True,Medium,--,4.26e-8,--,6.59e+4,--,2.81e-3,--,,ahmedsameh
+,ahmedsameh-Q3 #2,True,Medium,--,3.13e-8,--,1.51e+5,--,4.72e-3,--,,ahmedsameh
+ahmedsameh,ahmedsameh-yy2,True,Medium,2,6.28e-8,0.01,1.09e+5,0.06,6.83e-3,0.05,QVQLQESGGGLVQPGGSLRLSCAASGRTFSSHAMGWFRQAPGKQREFVAAIRWSGGYTYYTDSVKGRFTISRDNAKTTVYLQMNSLKPEDTAVYYCAATYLSSDYSRYALPQRPLDYDYWGQGTQVTVSSLE,ahmedsameh
+,ahmedsameh-yy2 #1,True,Medium,--,6.17e-8,--,1.24e+5,--,7.63e-3,--,,ahmedsameh
+,ahmedsameh-yy2 #2,True,Medium,--,6.38e-8,--,9.44e+4,--,6.03e-3,--,,ahmedsameh
+martin.pacesa+lennart.nickel,martin.pacesa-EGFR_l138_s90285_mpnn2,True,High,3,4.91e-7,0.03,1.86e+4,0.05,9.08e-3,0.03,SPFDLFLDRLPEQDPEMTEEGKWWAEEMKRMVGPHFEELEEYIRNNASGEELETQLWTFLIIFDSMSKIVKRYASEETRKLLDELVKKIEEAIREAEEKAKSEEEKKELMRKVGIEVIKTLAELAEVDYKVPGIDYSF,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l138_s90285_mpnn2 #1,True,High,--,4.52e-7,--,2.16e+4,--,9.78e-3,--,,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l138_s90285_mpnn2 #2,True,High,--,5.31e-7,--,1.71e+4,--,9.06e-3,--,,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l138_s90285_mpnn2 #3,True,High,--,4.90e-7,--,1.71e+4,--,8.39e-3,--,,martin.pacesa+lennart.nickel
+x.rustamov,x.rustamov-m_18_41,True,High,2,4.77e-6,0.03,--,--,--,--,SAGQAQIEEVKARADKAKTLEELKELRKEAYEKNWKAYMAVVDETEKKIAEAKATGKGDLDKISEEGNNALQANQNTYLEQWDIIDEKAKELRAAEEAAK,x.rustamov
+,x.rustamov-m_18_41 #1,True,High,--,5.16e-6,--,--,--,--,--,,x.rustamov
+,x.rustamov-m_18_41 #2,True,High,--,4.39e-6,--,--,--,--,--,,x.rustamov
+adrian.tripp,adrian.tripp-egfr_cetuxi_0133_0002_A,True,High,3,2.29e-5,0.17,--,--,--,--,MAKLIIANSEEALKEYLEKLGEEAKDYEKVVVPLGDGSVVQSAQNAVNVVIDFVKKNPNSEIIIVIEIKSDRDVIFAAAFLYELEFAINTYGFEGVEITIHIYAQSVEQQNYLKEIAEDVLSRITQPVKKLTIIIYGPEGVEDTVLTKTS,adrian.tripp
+,adrian.tripp-egfr_cetuxi_0133_0002_A #1,True,High,--,1.26e-5,--,--,--,--,--,,adrian.tripp
+,adrian.tripp-egfr_cetuxi_0133_0002_A #2,True,High,--,2.44e-5,--,--,--,--,--,,adrian.tripp
+,adrian.tripp-egfr_cetuxi_0133_0002_A #3,True,High,--,3.18e-5,--,--,--,--,--,,adrian.tripp
+alecl,alecl-Sequence1,Weak,High,2,>1.00e-5,--,--,--,--,--,SVDEECPASYEGFCQNDGTCLYLEKLDRYACRCREGYIGERCEFRDLDYWLEQ,alecl
+,alecl-Sequence1 #1,Weak,High,--,>1.00e-5,--,--,--,--,--,,alecl
+,alecl-Sequence1 #2,Weak,High,--,>1.00e-5,--,--,--,--,--,,alecl
+alan.blakely,alan.blakely-design:5 n:6|mpnn:1.247|plddt:0.825|ptm:0.709|pae:10.151|rmsd:3.535,Weak,High,2,>1.00e-5,--,--,--,--,--,DSECPLSHDGYCLHDGVCMYIEALDKYACNCVVGYIGERCQYRDLKWWENLEERLKEHRAKRLALLGPGPPGVVEKEKYKVSITEKVNPGGPATMPMTLTDSNGNKTTLTITVTPEGLEAIRKRRAGEKVKYTMTSTDTGDKFVLVDLDGYCLHDGVCMYIEALDKYACNCVVGYIGERCQYRDLK,alan.blakely
+,alan.blakely-design:5 n:6|mpnn:1.247|plddt:0.825|ptm:0.709|pae:10.151|rmsd:3.535 #1,Weak,High,--,>1.00e-5,--,--,--,--,--,,alan.blakely
+,alan.blakely-design:5 n:6|mpnn:1.247|plddt:0.825|ptm:0.709|pae:10.151|rmsd:3.535 #2,Weak,High,--,>1.00e-5,--,--,--,--,--,,alan.blakely
+alex.naka,alex.naka-158511,False,Medium,3,--,--,--,--,--,--,PSFSACPSNYDGVCCNGGVCHLAESLTSYTCQCILGYSGHRVQTFDLRYT,alex.naka
+,alex.naka-158511 #1,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-158511 #2,False,Low,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-158511 #3,Unknown,None,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-dda1c8,False,Medium,2,--,--,--,--,--,--,PSFSACPSNYDGVCCNGGVCHLAESLTSYTCQCIIGYSGDRVQTFDLRYT,alex.naka
+,alex.naka-dda1c8 #1,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-dda1c8 #2,False,Medium,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-06b390,False,Medium,2,--,--,--,--,--,--,PSFSACPSNYDGVCGNGGVCHLAESLTSYTCQCVIGYSGDRVQTFDLRYT,alex.naka
+,alex.naka-06b390 #1,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-06b390 #2,False,Medium,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-af805e,False,Medium,3,--,--,--,--,--,--,PSYSACPVRYDGFCGNGGVCKHIESLDSYTCQCVIGYSGHREQTYDLRST,alex.naka
+,alex.naka-af805e #1,Unknown,None,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-af805e #2,Unknown,None,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-af805e #3,False,High,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-36550b,False,Medium,3,--,--,--,--,--,--,PFYSACPSSYDGYCGNGGVCMHIQSLDSYTCQCYIGYSGPRVQTRDLRTT,alex.naka
+,alex.naka-36550b #1,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-36550b #2,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-36550b #3,Unknown,None,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-aa2c76,False,High,2,--,--,--,--,--,--,PSYSACPSSYDGYCGNGGVCKHIESLDSYTCQCVIGCSGDRDQTADLRYT,alex.naka
+,alex.naka-aa2c76 #1,False,High,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-aa2c76 #2,False,High,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-e50198,False,Medium,3,--,--,--,--,--,--,PKFSACCSNYDGVCCNGGVCHLAEELTSYTCQCIIGYSGDRVQTFDLRYT,alex.naka
+,alex.naka-e50198 #1,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-e50198 #2,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-e50198 #3,Unknown,None,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-8a700d,False,Medium,2,--,--,--,--,--,--,NCYSACNSSYAGYCLESGVCQHICSMDSYTCHCVIGYSGDRTQTHDLRHS,alex.naka
+,alex.naka-8a700d #1,False,Medium,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-8a700d #2,Unknown,None,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-233236,False,High,2,--,--,--,--,--,--,PSYSACPSCYDGVCGNGGVCKHAQSLDSYTCKCYIGYIGDRVQTRDLRYY,alex.naka
+,alex.naka-233236 #1,False,High,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-233236 #2,False,High,--,--,--,--,--,--,--,,alex.naka
+alex.naka,alex.naka-65bf78,False,Low,2,--,--,--,--,--,--,ISYSACPLSYDGVCGNGGVCKHALSLDSDTCQCVWDYMGDRVQTEDLRYT,alex.naka
+,alex.naka-65bf78 #1,False,Low,--,--,--,--,--,--,--,,alex.naka
+,alex.naka-65bf78 #2,False,Low,--,--,--,--,--,--,--,,alex.naka
+alecl,alecl-Sequence5,Unknown,None,3,--,--,--,--,--,--,HTERQCPSSYDGYCKNDGVCQFLEALSEYACTCTTGYIGERCEFADLQFWLRE,alecl
+,alecl-Sequence5 #1,Unknown,None,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence5 #2,Unknown,None,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence5 #3,Unknown,None,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence4,False,High,2,--,--,--,--,--,--,TEQQQCPSSFHGFCQNDGRCLYLQALDRYACQCTEGYIGERCELKDLLYHLRL,alecl
+,alecl-Sequence4 #1,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence4 #2,Unknown,None,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence3,False,High,3,--,--,--,--,--,--,GDTKSCPASYEGFCQHQGECRYIAALDEYACQCQTGFIGERCQYRDLDYWERI,alecl
+,alecl-Sequence3 #1,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence3 #2,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence3 #3,False,High,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence6,False,Low,2,--,--,--,--,--,--,GSLKRCPLSYHGYCLNDGVCQYIAALHRYACNCRTGYIGERCEYRDLLYWRQQ,alecl
+,alecl-Sequence6 #1,False,Medium,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence6 #2,False,Low,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence2,False,High,2,--,--,--,--,--,--,KTTVQCPDSYEGFCLNNGRCLYIEALDRFACECETGYIGERCEYRDLLFWRRT,alecl
+,alecl-Sequence2 #1,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence2 #2,False,High,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence10,False,High,2,--,--,--,--,--,--,EINEECPWSFSGYCQNEGVCLFLEKTNRYACQCQNGYIGERCEWRDLQYWRSL,alecl
+,alecl-Sequence10 #1,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence10 #2,False,High,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence7,False,High,3,--,--,--,--,--,--,HHHHHCPASYDGFCHNDGTCLFIAATNRYACRCTEGYIGKRCEFKDLDFWLRQ,alecl
+,alecl-Sequence7 #1,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence7 #2,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence7 #3,False,High,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence8,False,High,2,--,--,--,--,--,--,SKNIQCPESYEGFCKNEGTCLYLEKINKYACRCTTGWIGEHCELADLDYWLKL,alecl
+,alecl-Sequence8 #1,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence8 #2,False,High,--,--,--,--,--,--,--,,alecl
+alecl,alecl-Sequence9,False,High,2,--,--,--,--,--,--,DVDVDCPASYEGFCMHDGTCVYLEDLDKTACTCQKGFIGERCEYKDLDYHREL,alecl
+,alecl-Sequence9 #1,False,High,--,--,--,--,--,--,--,,alecl
+,alecl-Sequence9 #2,False,High,--,--,--,--,--,--,--,,alecl
+gitter,gitter-yolo1,False,Low,2,--,--,--,--,--,--,HAQTQAAVDYDGYCLHDGVCMYIEALDKYACNCVVGYIGERCQYRDLKWWELR,gitter
+,gitter-yolo1 #1,False,Low,--,--,--,--,--,--,--,,gitter
+,gitter-yolo1 #2,False,Medium,--,--,--,--,--,--,--,,gitter
+nasr.kaveh,nasr.kaveh-ZistRayaneshDesign-01,False,High,2,--,--,--,--,--,--,AELQQKIKDATAKAIAAAKAGDSDGVVAASSDIVTYSIELGDYAAGYNALKEVMEAAKDNDPLALSIIRQMGKSLRLLAN,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-01 #1,False,High,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-01 #2,False,High,--,--,--,--,--,--,--,,nasr.kaveh
+nasr.kaveh,nasr.kaveh-ZistRayaneshDesign-03,False,Low,2,--,--,--,--,--,--,GALDAQIAAATAKAIAAAKAGDSDGVVAAASDVVTYAEAKGDYAAGYAALTEIGKAAKNVDPLALNIIREMGKSLRLRAL,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-03 #1,False,Low,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-03 #2,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+qiuzhen.li,qiuzhen.li-Seq6,False,Medium,2,--,--,--,--,--,--,GRGAILAEKEAIWNRDV,qiuzhen.li
+,qiuzhen.li-Seq6 #1,False,Medium,--,--,--,--,--,--,--,,qiuzhen.li
+,qiuzhen.li-Seq6 #2,False,High,--,--,--,--,--,--,--,,qiuzhen.li
+nasr.kaveh,nasr.kaveh-ZistRayaneshDesign-08,Unknown,None,2,--,--,--,--,--,--,DALRQQIAAATAAAIAAAKAGDSDGVVAASADVVTYAEALGDYALGYEALTEVGKAAKDNDPEALAIIRQMAKSLRLRAL,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-08 #1,Unknown,None,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-08 #2,Unknown,None,--,--,--,--,--,--,--,,nasr.kaveh
+nasr.kaveh,nasr.kaveh-ZistRayaneshDesign-07,False,Medium,2,--,--,--,--,--,--,AALKAKVEALVDKAIAAAKAGDFDAALKYAEDALLAAEAAGDGELAEEAVKRIIEAVPSLPQYYKDLLRAFAERVKSKAA,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-07 #1,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-07 #2,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+x.rustamov,x.rustamov-m_11_0,False,High,2,--,--,--,--,--,--,KAALDEFIEQFKSFMSEFKKLSEEDIEDYKKQLKEAGKEVTEEDIKKKEEEIKETAKSIAELYIETFGKLARHYAKKSGLPEEVAEKLTEEFGKIAYESI,x.rustamov
+,x.rustamov-m_11_0 #1,False,High,--,--,--,--,--,--,--,,x.rustamov
+,x.rustamov-m_11_0 #2,False,High,--,--,--,--,--,--,--,,x.rustamov
+qiuzhen.li,qiuzhen.li-Seq5,False,High,2,--,--,--,--,--,--,WNPRAEAQAIFDCALNDCY,qiuzhen.li
+,qiuzhen.li-Seq5 #1,False,High,--,--,--,--,--,--,--,,qiuzhen.li
+,qiuzhen.li-Seq5 #2,False,High,--,--,--,--,--,--,--,,qiuzhen.li
+nasr.kaveh,nasr.kaveh-ZistRayaneshDesign-04,False,Medium,2,--,--,--,--,--,--,GALQKQIEAATAKAIEAAKAGDSQGVIAASSDIVTYSIELGDYKAGYDALTKVKEAAKNIDQNALNIITQMGKSLRLRAL,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-04 #1,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-04 #2,False,High,--,--,--,--,--,--,--,,nasr.kaveh
+qiuzhen.li,qiuzhen.li-Seq4,False,High,2,--,--,--,--,--,--,WNPRAEAQARFDCALNDCW,qiuzhen.li
+,qiuzhen.li-Seq4 #1,False,High,--,--,--,--,--,--,--,,qiuzhen.li
+,qiuzhen.li-Seq4 #2,False,High,--,--,--,--,--,--,--,,qiuzhen.li
+jj700physics,jj700physics-model2,False,High,2,--,--,--,--,--,--,KAVSITKCSAHASDMNGYCLHGRCIYLAKDMSNNYCRAHCEVGYTGVRCEHFKFL,jj700physics
+,jj700physics-model2 #1,False,High,--,--,--,--,--,--,--,,jj700physics
+,jj700physics-model2 #2,False,High,--,--,--,--,--,--,--,,jj700physics
+nickboyd,nickboyd-Domain1_Seq5,False,High,3,--,--,--,--,--,--,MSIEETAKKIKEELGVSEEVARAAAIQAGGDYELAKELAKSLA,nickboyd
+,nickboyd-Domain1_Seq5 #1,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain1_Seq5 #2,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain1_Seq5 #3,False,High,--,--,--,--,--,--,--,,nickboyd
+nickboyd,nickboyd-Domain1_Seq2,False,High,2,--,--,--,--,--,--,MSAAEIAEEIKKKLNVSSELAGQAVIESGGDLEKALEIAKKKL,nickboyd
+,nickboyd-Domain1_Seq2 #1,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain1_Seq2 #2,False,High,--,--,--,--,--,--,--,,nickboyd
+nickboyd,nickboyd-Domain1_Seq4,False,Low,3,--,--,--,--,--,--,MDYGPLADLLMEKLNVSREVALKAAKEAGGNGEEALKIAKELK,nickboyd
+,nickboyd-Domain1_Seq4 #1,False,Low,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain1_Seq4 #2,Unknown,None,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain1_Seq4 #3,False,Medium,--,--,--,--,--,--,--,,nickboyd
+nickboyd,nickboyd-Domain1_Seq1,False,High,2,--,--,--,--,--,--,MSAAEIAEEIKKELKCSSEVAGEAVVESGGDYEKALELAKKKL,nickboyd
+,nickboyd-Domain1_Seq1 #1,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain1_Seq1 #2,False,High,--,--,--,--,--,--,--,,nickboyd
+nickboyd,nickboyd-Domain1_Seq3,False,High,2,--,--,--,--,--,--,DIYEAIADILMEKYNVSREVALKAAKEAGGNYEKAEELVKKSL,nickboyd
+,nickboyd-Domain1_Seq3 #1,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain1_Seq3 #2,False,High,--,--,--,--,--,--,--,,nickboyd
+zalavi,zalavi-egfr_binder8,False,High,2,--,--,--,--,--,--,IDEKKKEEYESLATELNAQAKALKAQADATGSQTYANFATAASDAAKYYEAKAKEL,zalavi
+,zalavi-egfr_binder8 #1,False,High,--,--,--,--,--,--,--,,zalavi
+,zalavi-egfr_binder8 #2,False,High,--,--,--,--,--,--,--,,zalavi
+aqamar,aqamar-seq8,Unknown,None,3,--,--,--,--,--,--,SLERLLAVVFEALAKKIAEEGIKKAKEALGNPEEAKKIKEETLKALEKLAELALKASPLAGAAVLQVRIQAELELDKLVEEAKKA,aqamar
+,aqamar-seq8 #1,Unknown,None,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq8 #2,Unknown,None,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq8 #3,Unknown,None,--,--,--,--,--,--,--,,aqamar
+zalavi,zalavi-egfr_binder3,False,High,2,--,--,--,--,--,--,SEEAKELKEKAKEKLKEALEKAKEALKDAEKAAEILKKIPEAKEALELAKKAAELIKEAIKDLEAALKTEDPKEAAKLAEKAEKLLFEAAAYLISAAEILEELAKKNKEHKEELLEAQKLLLRAASNAGEAAVLAAEAAKLYKKAIELEE,zalavi
+,zalavi-egfr_binder3 #1,False,High,--,--,--,--,--,--,--,,zalavi
+,zalavi-egfr_binder3 #2,False,High,--,--,--,--,--,--,--,,zalavi
+nasr.kaveh,nasr.kaveh-ZistRayaneshDesign-02,False,Medium,2,--,--,--,--,--,--,GPAREEIERHTALALEACEAGDADGALNHALKADLLAKAAGDYALGLAAHKRIAAECKNLTPLTRSFLRSRAQIHEAKAS,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-02 #1,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-02 #2,False,High,--,--,--,--,--,--,--,,nasr.kaveh
+freddie.martin,freddie.martin-FJOM_8,Unknown,None,2,--,--,--,--,--,--,AKEQLKANAKETEELLNKANDALIDLARRVAEADGLVGSHLYLFALAFTAFADSLTNALLAYADGDVAAMQEHCRKAAQALRAAAEEVRAMARASGHEELGAEAVAALEAAAAHLEAAAADPSAFLEHLAAALEEIGRALRLVAELAGAASGDAAFAAAVKAAIEENVKAALEKIKA,freddie.martin
+,freddie.martin-FJOM_8 #1,Unknown,None,--,--,--,--,--,--,--,,freddie.martin
+,freddie.martin-FJOM_8 #2,Unknown,None,--,--,--,--,--,--,--,,freddie.martin
+salireza111,salireza111-sewing1,False,High,2,--,--,--,--,--,--,MAAKRAACVCDKPACVCHSGYVGARCEHADLLA,salireza111
+,salireza111-sewing1 #1,False,High,--,--,--,--,--,--,--,,salireza111
+,salireza111-sewing1 #2,False,High,--,--,--,--,--,--,--,,salireza111
+x.rustamov,x.rustamov-s_11_5,False,High,2,--,--,--,--,--,--,MPELEAFKEEFEKFMKEFKKLSEEDIKDFKENLKKKGKPVTEEDIEKKKKEIEDTAKDIADLYVHNFGLLARYIAKRTGAPEEVAEKLTEEFKEIALSLI,x.rustamov
+,x.rustamov-s_11_5 #1,False,High,--,--,--,--,--,--,--,,x.rustamov
+,x.rustamov-s_11_5 #2,False,High,--,--,--,--,--,--,--,,x.rustamov
+surabhi.lata,surabhi.lata-Design_09,False,High,2,--,--,--,--,--,--,SAEDLEKALEAAEKALEAAEKALKAIKAGDADKAKEYLLEATAYLLEAVAHLARDPALAALAREVDALADEAVKLFQAAIDLLEAGGDKKEAIALAEKGLAKVKEILKRIEKAAKA,surabhi.lata
+,surabhi.lata-Design_09 #1,False,High,--,--,--,--,--,--,--,,surabhi.lata
+,surabhi.lata-Design_09 #2,False,High,--,--,--,--,--,--,--,,surabhi.lata
+salireza111,salireza111-mini_44_,False,High,2,--,--,--,--,--,--,SELDEKVAKALAEFNALRAA,salireza111
+,salireza111-mini_44_ #1,False,High,--,--,--,--,--,--,--,,salireza111
+,salireza111-mini_44_ #2,False,High,--,--,--,--,--,--,--,,salireza111
+x.rustamov,x.rustamov-m_3_33,False,High,2,--,--,--,--,--,--,DEEFRKKSHEVNQNYSDQILNLSTDIIETLEKVAKEAGLEDLADNNLIPDSIPDDGNPGHKKLKEKAKEETDYFYEQSNAIKKQFDKDRAKVEAEAAAAK,x.rustamov
+,x.rustamov-m_3_33 #1,False,High,--,--,--,--,--,--,--,,x.rustamov
+,x.rustamov-m_3_33 #2,False,High,--,--,--,--,--,--,--,,x.rustamov
+nickboyd,nickboyd-Dual_Seq1,False,High,2,--,--,--,--,--,--,MSYEEIAERLVKELGASRADALAAARASGGDLEEAEKLVKLPL,nickboyd
+,nickboyd-Dual_Seq1 #1,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Dual_Seq1 #2,False,High,--,--,--,--,--,--,--,,nickboyd
+chris.j.frank,chris.j.frank-GPU_3_Binder_81_seq_0_B_m,Unknown,None,2,--,--,--,--,--,--,SEVKKKNPLTYEHIERAKRRAEEIEERVLENARRYVETGDEEALREAVRLSLIAHYAFGTDLTPIMEENAKYVEEAKKIPLPWEAADDAERQAFQQEILDLQFDLTLTEVALEEYSDPSKSEEEQEFAKFTQEVLEAAERAGEAAKEAARLAPVVAGLLKLLSQRRAANNAALLANAPAD,chris.j.frank
+,chris.j.frank-GPU_3_Binder_81_seq_0_B_m #1,Unknown,None,--,--,--,--,--,--,--,,chris.j.frank
+,chris.j.frank-GPU_3_Binder_81_seq_0_B_m #2,Unknown,None,--,--,--,--,--,--,--,,chris.j.frank
+zalavi,zalavi-egfr_binder7,False,High,2,--,--,--,--,--,--,AQAAAKETIRAVLKAAAEAARKMAEEARKLAKELEKYNKEAAKHALKAAEYLEKAAELYEKAAEAVDNSKEVWRLVTEAQFAALNAAYELEKAAELTTEELAKKAKELAKEVIDTGNTAMTETAAAIASG,zalavi
+,zalavi-egfr_binder7 #1,False,High,--,--,--,--,--,--,--,,zalavi
+,zalavi-egfr_binder7 #2,False,High,--,--,--,--,--,--,--,,zalavi
+tadej.satler,tadej.satler-5HT6op,False,High,2,--,--,--,--,--,--,SEGELLGKELEADYLASQAPKVNKATQLTIAEELERLIKELEALGADPARLAEYRALVEQLK,tadej.satler
+,tadej.satler-5HT6op #1,False,High,--,--,--,--,--,--,--,,tadej.satler
+,tadej.satler-5HT6op #2,False,High,--,--,--,--,--,--,--,,tadej.satler
+"R
+Razora712",Razora712-sequence_6,False,Medium,2,--,--,--,--,--,--,EALEEALKALKAEHAKKRKAIYDELLESHSNIADKVEKGEINKEEADKLFEESQKQRDEKLKAIEEEEKKALKEL,"R
+Razora712"
+,Razora712-sequence_6 #1,False,Medium,--,--,--,--,--,--,--,,"R
+Razora712"
+,Razora712-sequence_6 #2,False,Medium,--,--,--,--,--,--,--,,"R
+Razora712"
+svs25,svs25-seq5,False,High,2,--,--,--,--,--,--,SNIPGCPESLKGYCKCCGKCVYNKKTKSVSCVCSKGCSGPPCTECSPAGPASG,svs25
+,svs25-seq5 #1,False,High,--,--,--,--,--,--,--,,svs25
+,svs25-seq5 #2,False,High,--,--,--,--,--,--,--,,svs25
+nickboyd,nickboyd-Domain2_Seq3,False,High,2,--,--,--,--,--,--,MDYSEIADKLVEELGVERLVALEAAREAGGDLEKAKELAKKRL,nickboyd
+,nickboyd-Domain2_Seq3 #1,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain2_Seq3 #2,False,High,--,--,--,--,--,--,--,,nickboyd
+eugene.valkov,eugene.valkov-rfdiff_design_84_12_dldesign_3_af2pred,Unknown,None,3,--,--,--,--,--,--,DEEKKKLLEEVELLARVAERLGSPLADFLKEMKEILKSLKNAEDAKTLFTLVADTVREAIALRLAKAGSPVTVEELIAAEKAAP,eugene.valkov
+,eugene.valkov-rfdiff_design_84_12_dldesign_3_af2pred #1,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+,eugene.valkov-rfdiff_design_84_12_dldesign_3_af2pred #2,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+,eugene.valkov-rfdiff_design_84_12_dldesign_3_af2pred #3,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+rajat,rajat-3_run_2_1111_0001_dldesign_0_cycle1_af2pred,False,Medium,2,--,--,--,--,--,--,EEEEKKKKEEEEKKKELDEKMAEEAKKAVEAAAKGDLAAADAHLGKIAELIAEEN,rajat
+,rajat-3_run_2_1111_0001_dldesign_0_cycle1_af2pred #1,False,Medium,--,--,--,--,--,--,--,,rajat
+,rajat-3_run_2_1111_0001_dldesign_0_cycle1_af2pred #2,False,High,--,--,--,--,--,--,--,,rajat
+salireza111,salireza111-mini_4_1_,False,High,2,--,--,--,--,--,--,SSATAEADKRAAELA,salireza111
+,salireza111-mini_4_1_ #1,False,High,--,--,--,--,--,--,--,,salireza111
+,salireza111-mini_4_1_ #2,False,High,--,--,--,--,--,--,--,,salireza111
+evarist.planet,evarist.planet-FM_75_39,Unknown,None,2,--,--,--,--,--,--,MPPSPEAQAFIDAHLPNPNVVREQRIVNGRPVILVFDPETGHVVVLAEGPDELTAYGLPE,evarist.planet
+,evarist.planet-FM_75_39 #1,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+,evarist.planet-FM_75_39 #2,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+"T
+theraven",theraven-sequence50,False,High,2,--,--,--,--,--,--,SEETKLKAEELKKKAAEAKFKAAELLAKGDELYKEAPKSKEAADKAGEAYIKAFQAYAKSLEYEAHAKYLS,"T
+theraven"
+,theraven-sequence50 #1,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence50 #2,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+nickboyd,nickboyd-Domain2_Seq1,False,High,2,--,--,--,--,--,--,MSYEEIAEKLVKEYGVSRRTALAAARSSGGDLEEAKKLALLPE,nickboyd
+,nickboyd-Domain2_Seq1 #1,False,High,--,--,--,--,--,--,--,,nickboyd
+,nickboyd-Domain2_Seq1 #2,False,High,--,--,--,--,--,--,--,,nickboyd
+ccalia,ccalia-conf14_125_2,Unknown,None,2,--,--,--,--,--,--,SEAAAEVAEAIAKQLKTAVEAAKEDPEAGAAVAGIAALSARAAAKAFPEVKEQFEKLAKQAEEAARLLKEDPEKGIKKLEEAAKEAEKLAKELKA,ccalia
+,ccalia-conf14_125_2 #1,Unknown,None,--,--,--,--,--,--,--,,ccalia
+,ccalia-conf14_125_2 #2,Unknown,None,--,--,--,--,--,--,--,,ccalia
+"B
+blyncha",blyncha-sequence46,False,High,3,--,--,--,--,--,--,SEETKAKAEELKKKAAEAKAKAAELLAKGDELYKEAPKSKEAADKAGEAYIKAFEAYAKSLEYEAHAKALS,"B
+blyncha"
+,blyncha-sequence46 #1,False,High,--,--,--,--,--,--,--,,"B
+blyncha"
+,blyncha-sequence46 #2,False,High,--,--,--,--,--,--,--,,"B
+blyncha"
+,blyncha-sequence46 #3,False,High,--,--,--,--,--,--,--,,"B
+blyncha"
+salireza111,salireza111-mini_1_0_,False,High,2,--,--,--,--,--,--,SEEADKKAEEARKEFDKQRK,salireza111
+,salireza111-mini_1_0_ #1,False,High,--,--,--,--,--,--,--,,salireza111
+,salireza111-mini_1_0_ #2,False,High,--,--,--,--,--,--,--,,salireza111
+"R
+Razora712",Razora712-sequence_3,False,High,2,--,--,--,--,--,--,KELEEARKKLKEEIIKEKKAIVDQELKNHAEIADLVEAGKINEKEARELQKENEKKAEEQREAIDKKAAEREKEL,"R
+Razora712"
+,Razora712-sequence_3 #1,False,High,--,--,--,--,--,--,--,,"R
+Razora712"
+,Razora712-sequence_3 #2,False,High,--,--,--,--,--,--,--,,"R
+Razora712"
+a.popov,n.shtil-binder_5,False,High,2,--,--,--,--,--,--,SLSELIKKIQQVVETQKSEVDKFKAAKEAELKEQYEKQKAAVAEAPEEKRPELLAYVENKRLVAQSQITLENAIKQAEATDKAEAEQAQLKS,a.popov
+,n.shtil-binder_5 #1,False,High,--,--,--,--,--,--,--,,a.popov
+,n.shtil-binder_5 #2,False,High,--,--,--,--,--,--,--,,a.popov
+"V
+v.tararina",v.tararina-binder_3,False,Medium,2,--,--,--,--,--,--,SDAAAAAKAARKAKIDSLIKEQLDKVVEVDKKIEELRKKVEEEKLGAKPEEREKLERLYEEKVKELQEELDKDLAEQKAKIIELAS,"V
+v.tararina"
+,v.tararina-binder_3 #1,False,High,--,--,--,--,--,--,--,,"V
+v.tararina"
+,v.tararina-binder_3 #2,False,Medium,--,--,--,--,--,--,--,,"V
+v.tararina"
+ryanba,ryanba-seq45,False,High,2,--,--,--,--,--,--,EKESQEIINLISSLSLEFLIEIDKLLPEISQEEKDELATELIRELRKLIEELKKKGKSLEEIKEEAEKYVKKKLAELKAK,ryanba
+,ryanba-seq45 #1,False,High,--,--,--,--,--,--,--,,ryanba
+,ryanba-seq45 #2,False,High,--,--,--,--,--,--,--,,ryanba
+tadej.satler,tadej.satler-8C0N,False,High,2,--,--,--,--,--,--,MSLEEKIREISLQALLNGEPISGLLLYIRDLYKKDKEEAKKYVEYLYKEFKNELFKEVLELMEKE,tadej.satler
+,tadej.satler-8C0N #1,False,High,--,--,--,--,--,--,--,,tadej.satler
+,tadej.satler-8C0N #2,False,High,--,--,--,--,--,--,--,,tadej.satler
+"T
+theraven",theraven-sequence45,False,High,3,--,--,--,--,--,--,SEETKAKAEELKTKAAEAKYKHAELLAKGDELYKEAPKSKEAADKAGEAYIKAFEFYAKSLEYRAHYEALS,"T
+theraven"
+,theraven-sequence45 #1,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence45 #2,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence45 #3,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+"R
+Razora712",Razora712-sequence_2,False,High,3,--,--,--,--,--,--,RVKELEEEAKRKADEAEELKKRIDALQAKFNELLAAAKASSDPRKSYELFQQAMQYATEYLKAEEELEKLERERAELKDKAEQLAAA,"R
+Razora712"
+,Razora712-sequence_2 #1,False,High,--,--,--,--,--,--,--,,"R
+Razora712"
+,Razora712-sequence_2 #2,False,High,--,--,--,--,--,--,--,,"R
+Razora712"
+,Razora712-sequence_2 #3,False,High,--,--,--,--,--,--,--,,"R
+Razora712"
+"T
+theraven",theraven-sequence10,False,High,3,--,--,--,--,--,--,SEETKAKAEELKKKAAETKTKAATLLVKGDELYKEAPKSKERADKAGEAYIKAFEAYAKSLEYEAHAKALS,"T
+theraven"
+,theraven-sequence10 #1,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence10 #2,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence10 #3,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+chris.j.frank,chris.j.frank-GPU_0_Binder_106_seq_2_B_m,False,Low,3,--,--,--,--,--,--,MAAEKLQKIEDYAKNAETPEGKELLLKGYAGVGLSLLYLKYAYEYGEDKAKLARAVFEAAKKLYEVAKKEYEKYKDTDKKKAFLAEYAIYEVGYEFMKLLPSLLESFKELPADELKEVVKFGKEMIEFTVEFVRRAETDPLLKELPELPEPPPLEEVEKKAEEAKKSIEELEKEAKKKEA,chris.j.frank
+,chris.j.frank-GPU_0_Binder_106_seq_2_B_m #1,Unknown,None,--,--,--,--,--,--,--,,chris.j.frank
+,chris.j.frank-GPU_0_Binder_106_seq_2_B_m #2,Unknown,None,--,--,--,--,--,--,--,,chris.j.frank
+,chris.j.frank-GPU_0_Binder_106_seq_2_B_m #3,False,Low,--,--,--,--,--,--,--,,chris.j.frank
+coreyhowe99,coreyhowe99-egfr_binder1,False,High,2,--,--,--,--,--,--,SELEEKAKETIEKANALKEEAKTAEDKEAVIAKYQEAINEFFELVKEIFD,coreyhowe99
+,coreyhowe99-egfr_binder1 #1,False,High,--,--,--,--,--,--,--,,coreyhowe99
+,coreyhowe99-egfr_binder1 #2,Unknown,None,--,--,--,--,--,--,--,,coreyhowe99
+a.popov,n.shtil-binder_1,False,High,2,--,--,--,--,--,--,SMEKALGREAAEAYTQTLLHRIKVLLALENASELPKEEVKAIVDEHFALVDKLKELIEYSPLSAEDIAEEFNKWADDYNDIAEEKEKKGYKEEAAFAKEVADRYRAKADEFKALA,a.popov
+,n.shtil-binder_1 #1,False,High,--,--,--,--,--,--,--,,a.popov
+,n.shtil-binder_1 #2,False,High,--,--,--,--,--,--,--,,a.popov
+x.rustamov,x.rustamov-m_15_28,False,High,2,--,--,--,--,--,--,MKDKLNELAKQAIAYAAAIFGDHPLLSEFTSQVNSIAEDLSKENVSDKEALSYFVTISYLHLRKLLLEYAPENPDINPRQADAIAEAMYNELSKKAEELL,x.rustamov
+,x.rustamov-m_15_28 #1,False,High,--,--,--,--,--,--,--,,x.rustamov
+,x.rustamov-m_15_28 #2,False,High,--,--,--,--,--,--,--,,x.rustamov
+"V
+v.tararina",v.tararina-binder_5,False,High,2,--,--,--,--,--,--,NLEKEKGLAARQAYTQALQDEILVILALEEAEKLPKEEVKKIIDAHFATIDALEALIEYSPLPAEDIAAHLERVAQQYKDIANEKKKKGYEEAAKLAEEVAARYLALAKRYRALA,"V
+v.tararina"
+,v.tararina-binder_5 #1,False,High,--,--,--,--,--,--,--,,"V
+v.tararina"
+,v.tararina-binder_5 #2,False,High,--,--,--,--,--,--,--,,"V
+v.tararina"
+nasr.kaveh,nasr.kaveh-ZistRayaneshDesign-06,False,Medium,3,--,--,--,--,--,--,GAARAEIEAHTAKAIEACKAGDADGALEHMYKAYLTADAAGDYALGLEACERLAKECKNLTPLTRSYVRSLADIFRRKAE,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-06 #1,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-06 #2,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+,nasr.kaveh-ZistRayaneshDesign-06 #3,False,Medium,--,--,--,--,--,--,--,,nasr.kaveh
+"T
+theraven",theraven-sequence47,False,High,2,--,--,--,--,--,--,SEETKAKAEELQTKALEAKYKAAELLAKGDELYKEAPKSKEAADKAGEAYIKAFEFYAKSLEYRAHYEALS,"T
+theraven"
+,theraven-sequence47 #1,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence47 #2,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+"T
+theraven",theraven-sequence46,False,High,2,--,--,--,--,--,--,SEETKAKAEELKTKALEAKYKAAELLAKGDELYKEAPKSKEAADKAGEAYIKAFEFYAKSLEYRAHYEALS,"T
+theraven"
+,theraven-sequence46 #1,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence46 #2,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+"B
+blyncha",blyncha-sequence42,False,High,1,--,--,--,--,--,--,SEEARENGRRDGEKLAEAAAKDPEKLKELEEELELTVKAIALNVEAGNREAAEINADVLRYTVEAATAAMAKRDPELAKKAAEIGAKALARAAEALAA,"B
+blyncha"
+,blyncha-sequence42 #1,False,High,--,--,--,--,--,--,--,,"B
+blyncha"
+"R
+Razora712",Razora712-sequence_10,False,High,2,--,--,--,--,--,--,EELKKALQALKKEYRDKQWAVVQEMLKQHAEIAKKKEAGEINEKEADKLMEEAKKAAEEKMKKIEEDRAKALAEL,"R
+Razora712"
+,Razora712-sequence_10 #1,False,High,--,--,--,--,--,--,--,,"R
+Razora712"
+,Razora712-sequence_10 #2,False,High,--,--,--,--,--,--,--,,"R
+Razora712"
+surabhi.lata,surabhi.lata-Design_02,False,High,2,--,--,--,--,--,--,YTKEEVIEALKRAIEEAEKALEELPKNPTLGAALICDAALIAIDAAYLVEEALGEEFKELAEKLREAALEALEAVKAGDLEKAKEYLEKAKEIAKEILKKI,surabhi.lata
+,surabhi.lata-Design_02 #1,False,High,--,--,--,--,--,--,--,,surabhi.lata
+,surabhi.lata-Design_02 #2,False,High,--,--,--,--,--,--,--,,surabhi.lata
+salireza111,salireza111-mini_6_1_,False,High,2,--,--,--,--,--,--,SEAQKKADEARKKIDEERK,salireza111
+,salireza111-mini_6_1_ #1,False,High,--,--,--,--,--,--,--,,salireza111
+,salireza111-mini_6_1_ #2,False,High,--,--,--,--,--,--,--,,salireza111
+martin.pacesa+lennart.nickel,martin.pacesa-EGFR_l96_s38819_mpnn15,False,High,2,--,--,--,--,--,--,MEYQYTFSEEVAERLMSHFEGLDPWTLELLRRLLSGEPISEEEMEALLYAVLLNPWYVAVVASIPEAKAVFEEAMKKLNVFEHSFDEIVADAQRYM,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l96_s38819_mpnn15 #1,False,High,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l96_s38819_mpnn15 #2,False,High,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+salireza111,salireza111-mini_26_1_,False,Low,2,--,--,--,--,--,--,GLDEGLAKAKADIASS,salireza111
+,salireza111-mini_26_1_ #1,False,Medium,--,--,--,--,--,--,--,,salireza111
+,salireza111-mini_26_1_ #2,False,Low,--,--,--,--,--,--,--,,salireza111
+"T
+theraven",theraven-sequence24,False,High,2,--,--,--,--,--,--,SEETKAKAEELKKKSAEAQAKSAEKLAKGDDLYKEAPKSKEAADKAGEAYIKAFESYARSLEYEAHAKTLS,"T
+theraven"
+,theraven-sequence24 #1,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+,theraven-sequence24 #2,False,High,--,--,--,--,--,--,--,,"T
+theraven"
+"R
+rohaneis",rohaneis-design3,False,High,2,--,--,--,--,--,--,DLGKKLLEAARAGQLDEVRELLKAGADVNADDTWGWTPLHLAAYQGHLEIVEVLLKYGADVNAYDYIGWTPLHLAADAGHLEIVEVLLKHGADVNASDYIGDTPLHLAAHNGHLEIVEVLLKHGADVNAQDKFGKTPFDIAADAGHEDIAEVLQKAA,"R
+rohaneis"
+,rohaneis-design3 #1,False,High,--,--,--,--,--,--,--,,"R
+rohaneis"
+,rohaneis-design3 #2,False,High,--,--,--,--,--,--,--,,"R
+rohaneis"
+martin.pacesa+lennart.nickel,martin.pacesa-EGFR_l165_s44215_mpnn2,False,High,2,--,--,--,--,--,--,SQPEIEQRFHDVAREVLDEGFDFIDKTMKLYKEANPEISDEEVIKEGQKLKHEFYNKYDLALFKAIEYMDKYPEAAEKVLKEFEYVLAAIKLFMGYVEEKKVDYALAGLKVVLKMFELLVEIFKLEVDPKEAKPLSELLKEEAEKEEDPVLKEVLEKVVEVMESL,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l165_s44215_mpnn2 #1,False,High,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l165_s44215_mpnn2 #2,False,High,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+tadej.satler,tadej.satler-1PZ2,False,High,3,--,--,--,--,--,--,SSSEEIKKLLEELKKELEKEKTVTEKKKLIVEAILKLHTLGTEEAEKKAKELEKELLEMK,tadej.satler
+,tadej.satler-1PZ2 #1,False,High,--,--,--,--,--,--,--,,tadej.satler
+,tadej.satler-1PZ2 #2,False,High,--,--,--,--,--,--,--,,tadej.satler
+,tadej.satler-1PZ2 #3,False,High,--,--,--,--,--,--,--,,tadej.satler
+vratinsrivastava10,vratinsrivastava10-sequence_6,False,High,2,--,--,--,--,--,--,DQKVTELNKAALQYEAEAAEYRTKAKTYDELSKGSGGGLYSKKAADYRLKAAKYDMEADAKREEAKALQA,vratinsrivastava10
+,vratinsrivastava10-sequence_6 #1,False,High,--,--,--,--,--,--,--,,vratinsrivastava10
+,vratinsrivastava10-sequence_6 #2,False,High,--,--,--,--,--,--,--,,vratinsrivastava10
+coreyhowe99,coreyhowe99-egfr_binder2,False,High,2,--,--,--,--,--,--,SKEEQIKELQEKIEKLDKEIEKEKKTGTQEDVNALQLIKDSYVRKLEALK,coreyhowe99
+,coreyhowe99-egfr_binder2 #1,False,High,--,--,--,--,--,--,--,,coreyhowe99
+,coreyhowe99-egfr_binder2 #2,False,High,--,--,--,--,--,--,--,,coreyhowe99
+rjtpunia,rjtpunia-5_run_2_1162_0001_dldesign_0_cycle1_af2pred,False,High,2,--,--,--,--,--,--,SEEEARRHALEQLAAVQEQLAALGKEADKISDAAYKEAEPIVKELTEKEIAKKNLTPEEAAKFKAIGEEETVSLAAGIANAIANGKETGTGAADKAAALASLKERFKEY,rjtpunia
+,rjtpunia-5_run_2_1162_0001_dldesign_0_cycle1_af2pred #1,False,High,--,--,--,--,--,--,--,,rjtpunia
+,rjtpunia-5_run_2_1162_0001_dldesign_0_cycle1_af2pred #2,False,High,--,--,--,--,--,--,--,,rjtpunia
+x.rustamov,x.rustamov-s_15_28,False,High,2,--,--,--,--,--,--,MKEKLNELADEAISFAKSIFGDHPSLATFTSFANSVADDLSKEDISDEEALNYYVQIVHLQLLKLLLEYAPENPNMNFRQAQAIAEEMYTKLSKKAKELL,x.rustamov
+,x.rustamov-s_15_28 #1,False,High,--,--,--,--,--,--,--,,x.rustamov
+,x.rustamov-s_15_28 #2,False,High,--,--,--,--,--,--,--,,x.rustamov
+"B
+blyncha",blyncha-sequence39,False,High,3,--,--,--,--,--,--,DEERRKEIEKRVEEIRKRAEELAARGASPGIIQAINDAAELAEKALKEGNLEEAEEYREAAEDLARLGEGVAARLEAVHARARAAAAAA,"B
+blyncha"
+,blyncha-sequence39 #1,False,High,--,--,--,--,--,--,--,,"B
+blyncha"
+,blyncha-sequence39 #2,False,High,--,--,--,--,--,--,--,,"B
+blyncha"
+,blyncha-sequence39 #3,False,High,--,--,--,--,--,--,--,,"B
+blyncha"
+tadej.satler,tadej.satler-1DI7,False,High,2,--,--,--,--,--,--,DWEKWLKYLEEMIKDPSMKDTARELLENEKTILKIVGDKERLEEVEKMLKKI,tadej.satler
+,tadej.satler-1DI7 #1,False,High,--,--,--,--,--,--,--,,tadej.satler
+,tadej.satler-1DI7 #2,False,High,--,--,--,--,--,--,--,,tadej.satler
+svs25,svs25-seq4,False,Low,2,--,--,--,--,--,--,PNLPGCPPELAGVCPCHGRCVYDAATGSVSCVCSEGCSGPPCTTCDPSGPAAG,svs25
+,svs25-seq4 #1,False,Medium,--,--,--,--,--,--,--,,svs25
+,svs25-seq4 #2,Unknown,None,--,--,--,--,--,--,--,,svs25
+svs25,svs25-seq3,False,Low,2,--,--,--,--,--,--,PDLPGCPPELAGYCPCGGKCVYNAATNSVSCECSPGCSGPPCTLCDPSGPAAG,svs25
+,svs25-seq3 #1,False,Medium,--,--,--,--,--,--,--,,svs25
+,svs25-seq3 #2,False,Low,--,--,--,--,--,--,--,,svs25
+aqamar,aqamar-seq2,Unknown,None,3,--,--,--,--,--,--,EEARKEALEAAYKEAAGEALKAEAEAVVYENEARATGSPELAAKAEAARAKAKEAWAKAEALKAQLA,aqamar
+,aqamar-seq2 #1,Unknown,None,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq2 #2,Unknown,None,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq2 #3,Unknown,None,--,--,--,--,--,--,--,,aqamar
+akshaychenna,akshayc-5_run_3_1002_dldesign_0_cycle1_af2pred,False,High,3,--,--,--,--,--,--,GISESLAKLEFIKKLAEALAPLTEKAAAAEKKLAAAIKKLVPENAEEVTEEILAGADKVRVAASNAAYLAETGGDAQAEAAYTKEVKAEKLKEIEKKYGPEVAKLAKEYFDLQAELGAQEGKLVAKLEKE,akshaychenna
+,akshayc-5_run_3_1002_dldesign_0_cycle1_af2pred #1,False,High,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-5_run_3_1002_dldesign_0_cycle1_af2pred #2,False,High,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-5_run_3_1002_dldesign_0_cycle1_af2pred #3,False,High,--,--,--,--,--,--,--,,akshaychenna
+akshaychenna,akshayc-3_run_3_168_dldesign_0_cycle1_af2pred,False,High,3,--,--,--,--,--,--,DVERYKETLEESKKELDKEKKKAEAELKKAKEDAAKASPEEAAKYKAKAKELEAEIKFNEDVEKFLEALLKQVEEDEKRS,akshaychenna
+,akshayc-3_run_3_168_dldesign_0_cycle1_af2pred #1,False,High,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-3_run_3_168_dldesign_0_cycle1_af2pred #2,False,High,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-3_run_3_168_dldesign_0_cycle1_af2pred #3,Unknown,None,--,--,--,--,--,--,--,,akshaychenna
+aqamar,aqamar-seq5,False,Medium,2,--,--,--,--,--,--,GSAALKAAAKAVKAAAKALAEKLLQKSLDLLIEAGENPEKAPELKEQAAEYSSLAALVLTLGDKLAAALEKLA,aqamar
+,aqamar-seq5 #1,False,High,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq5 #2,False,Medium,--,--,--,--,--,--,--,,aqamar
+aqamar,aqamar-seq7,False,High,3,--,--,--,--,--,--,DEARKRLAASNAKNAALHETFLAEAEAEAAARAARSEAARAAAAEAARRAA,aqamar
+,aqamar-seq7 #1,False,High,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq7 #2,False,High,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq7 #3,False,High,--,--,--,--,--,--,--,,aqamar
+aqamar,aqamar-seq3,False,Medium,3,--,--,--,--,--,--,AEEEDKKKLEEFKKFAEEKVKEAKKLLEEAKKKVEEAKKKGDPEELRKAAEFARKAAEEAEELLWEVLKKAHEVASSSSPKYAEEAKKEAAKAAEEIGKIREELWDLSNEAAAAAEEVEAA,aqamar
+,aqamar-seq3 #1,False,Medium,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq3 #2,False,High,--,--,--,--,--,--,--,,aqamar
+,aqamar-seq3 #3,False,High,--,--,--,--,--,--,--,,aqamar
+eugene.valkov,eugene.valkov-rfdiff_design_84_12_dldesign_1_af2pred,Unknown,None,3,--,--,--,--,--,--,MKEKEELIEEAKLLAEVAKLLGSPYAEFLENMIEILKSLKDVEDAKTLFTLVGNTVKEALELRLKKEGSPYTLEELIELVKKAP,eugene.valkov
+,eugene.valkov-rfdiff_design_84_12_dldesign_1_af2pred #1,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+,eugene.valkov-rfdiff_design_84_12_dldesign_1_af2pred #2,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+,eugene.valkov-rfdiff_design_84_12_dldesign_1_af2pred #3,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+eugene.valkov,eugene.valkov-rfdiff_design_6_38_dldesign_2_af2pred,False,Medium,2,--,--,--,--,--,--,SVPDPREERLKRVVAEVFKDYPKSAQERVNGVFKVREGDPEARAIAELIRTLLESERKLLTAIAASEADSTAAAARIAEIDDVLAYLDELLA,eugene.valkov
+,eugene.valkov-rfdiff_design_6_38_dldesign_2_af2pred #1,False,High,--,--,--,--,--,--,--,,eugene.valkov
+,eugene.valkov-rfdiff_design_6_38_dldesign_2_af2pred #2,False,Medium,--,--,--,--,--,--,--,,eugene.valkov
+eugene.valkov,eugene.valkov-rfdiff_design_22_33_dldesign_0_af2pred,Unknown,None,2,--,--,--,--,--,--,MLEEIIARLEEENKTSSPHPMEPEMRKYYVPKLKELTGIPTEEDAEAILERVDGVSEMAVVNVMLQAIYEGQ,eugene.valkov
+,eugene.valkov-rfdiff_design_22_33_dldesign_0_af2pred #1,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+,eugene.valkov-rfdiff_design_22_33_dldesign_0_af2pred #2,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+eugene.valkov,eugene.valkov-rfdiff_design_88_34_dldesign_1_af2pred,False,Low,2,--,--,--,--,--,--,KLEEIKKKQELANKLAAEDEIMWDIQVLLLELEAEGVSEEEKDKILEEYIESQPEELKEKAKEYLELALYIKENEELVKEEEY,eugene.valkov
+,eugene.valkov-rfdiff_design_88_34_dldesign_1_af2pred #1,Unknown,None,--,--,--,--,--,--,--,,eugene.valkov
+,eugene.valkov-rfdiff_design_88_34_dldesign_1_af2pred #2,False,Low,--,--,--,--,--,--,--,,eugene.valkov
+evarist.planet,evarist.planet-FM_75_1_14,False,High,2,--,--,--,--,--,--,EELPEEVRKLLEDLIGEAPIEIEVKEVGPRRIVTGFSFETGKFAIVEDSPEGIRVLAQST,evarist.planet
+,evarist.planet-FM_75_1_14 #1,False,High,--,--,--,--,--,--,--,,evarist.planet
+,evarist.planet-FM_75_1_14 #2,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+evarist.planet,evarist.planet-FM_75_1_76,Unknown,None,2,--,--,--,--,--,--,PELPPEVRAALEALLGEAPIQITLKQVGGDLVATAVSFETGKFAILRWSPEGLEVLARSE,evarist.planet
+,evarist.planet-FM_75_1_76 #1,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+,evarist.planet-FM_75_1_76 #2,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+evarist.planet,evarist.planet-FM_75_7_10,Unknown,None,2,--,--,--,--,--,--,MTLPPTALAQIEEIKKDPNYEVTLEMRGGRPVVIVYNKETGKVTVSHIVDGELVSETPFT,evarist.planet
+,evarist.planet-FM_75_7_10 #1,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+,evarist.planet-FM_75_7_10 #2,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+evarist.planet,evarist.planet-FM_75_7_16,False,Medium,3,--,--,--,--,--,--,LTLPPSAQAQIEQLKQNPNYELTLFLSGGRPVVEVYNKETGAVTYSHVVDGQLVSETPFT,evarist.planet
+,evarist.planet-FM_75_7_16 #1,False,High,--,--,--,--,--,--,--,,evarist.planet
+,evarist.planet-FM_75_7_16 #2,False,Low,--,--,--,--,--,--,--,,evarist.planet
+,evarist.planet-FM_75_7_16 #3,Unknown,None,--,--,--,--,--,--,--,,evarist.planet
+ccalia,ccalia-conf58_111_0,Unknown,None,2,--,--,--,--,--,--,ADPEKAREYVKKAREAIKEAEKALKDGTEEAIKKAQEKALEMMELLAEARKEGFPDTLIAMLAYAALAAGEYATAATLKNKGTDPEAAARHERLGKLAAERALGLGELVL,ccalia
+,ccalia-conf58_111_0 #1,Unknown,None,--,--,--,--,--,--,--,,ccalia
+,ccalia-conf58_111_0 #2,Unknown,None,--,--,--,--,--,--,--,,ccalia
+ccalia,ccalia-conf94_139_2,Unknown,None,2,--,--,--,--,--,--,AALEAAKKALEAAKKALAELKAAAKEAEKVNPGAGALANTMAEAVEKILKVGEEALKDPSQAENAEAVFKLAKGVAEDAIKSTKARIKKAK,ccalia
+,ccalia-conf94_139_2 #1,Unknown,None,--,--,--,--,--,--,--,,ccalia
+,ccalia-conf94_139_2 #2,Unknown,None,--,--,--,--,--,--,--,,ccalia
+ccalia,ccalia-conf17_183_3,False,High,2,--,--,--,--,--,--,MEEALALAKAMAEKAIAAGRETGVEEEVKELADKALAAMEAGDLEKFVDYAIEASGLLARAAYEKGNGRAARLLYEFNRLATKAVEAMKALKAAAA,ccalia
+,ccalia-conf17_183_3 #1,False,High,--,--,--,--,--,--,--,,ccalia
+,ccalia-conf17_183_3 #2,Unknown,None,--,--,--,--,--,--,--,,ccalia
+ccalia,ccalia-conf58_160_3,False,Low,3,--,--,--,--,--,--,SELGEEALNYAYLAIAYLQLAVGDSHNAEEYLKKAEEYAKKMIEKMKKFGTEEEAEKVKKLAEEALKIAKELIEKGRKKGITGKERQEYFDKLDAEAGKLLKAVEEAIKKAK,ccalia
+,ccalia-conf58_160_3 #1,Unknown,None,--,--,--,--,--,--,--,,ccalia
+,ccalia-conf58_160_3 #2,Unknown,None,--,--,--,--,--,--,--,,ccalia
+,ccalia-conf58_160_3 #3,False,Low,--,--,--,--,--,--,--,,ccalia
+coreyhowe99,coreyhowe99-egfr_binder6,False,Medium,3,--,--,--,--,--,--,DRNELKFWEWVKRKRHQAET,coreyhowe99
+,coreyhowe99-egfr_binder6 #1,False,High,--,--,--,--,--,--,--,,coreyhowe99
+,coreyhowe99-egfr_binder6 #2,False,Low,--,--,--,--,--,--,--,,coreyhowe99
+,coreyhowe99-egfr_binder6 #3,False,Low,--,--,--,--,--,--,--,,coreyhowe99
+coreyhowe99,coreyhowe99-egfr_binder10,False,High,2,--,--,--,--,--,--,KNHRPLCFYGGRCYGTYRPQ,coreyhowe99
+,coreyhowe99-egfr_binder10 #1,False,High,--,--,--,--,--,--,--,,coreyhowe99
+,coreyhowe99-egfr_binder10 #2,False,High,--,--,--,--,--,--,--,,coreyhowe99
+coreyhowe99,coreyhowe99-egfr_binder7,False,Low,2,--,--,--,--,--,--,TRNERKFWEWVKRLRHQAQA,coreyhowe99
+,coreyhowe99-egfr_binder7 #1,False,Medium,--,--,--,--,--,--,--,,coreyhowe99
+,coreyhowe99-egfr_binder7 #2,False,Low,--,--,--,--,--,--,--,,coreyhowe99
+martin.pacesa+lennart.nickel,martin.pacesa-EGFR_l79_s73552_mpnn1,False,Medium,3,--,--,--,--,--,--,MEKLIEKLKELLEKVKKKEATWHEVFNVVDEVYLTLVWNDSLPGIHEYWEKFWEAFFSKNRWEGIIKFLEEFIKKLPKP,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l79_s73552_mpnn1 #1,Unknown,None,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l79_s73552_mpnn1 #2,Unknown,None,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l79_s73552_mpnn1 #3,False,High,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+martin.pacesa+lennart.nickel,martin.pacesa-EGFR_l81_s82421_mpnn14,False,High,2,--,--,--,--,--,--,SSKIEEITEKIMEYVKKVGPHKIKEEEFREFLKSLGIPEELRDDLTYLVMLWPPLPTSPIRAEHSLLALREHVLRYLRENW,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l81_s82421_mpnn14 #1,False,High,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+,martin.pacesa-EGFR_l81_s82421_mpnn14 #2,False,High,--,--,--,--,--,--,--,,martin.pacesa+lennart.nickel
+vratinsrivastava10,vratinsrivastava10-sequence_0,False,High,2,--,--,--,--,--,--,DEVEKLREEAIKEIEEARRLIEEARERVGDACGPYADAAASSYEEAKKKKDDAEEVAQEAYVAALHLEGAAAAAPDPEVRRRLEEAAERVAKEAKKLRAA,vratinsrivastava10
+,vratinsrivastava10-sequence_0 #1,False,High,--,--,--,--,--,--,--,,vratinsrivastava10
+,vratinsrivastava10-sequence_0 #2,False,High,--,--,--,--,--,--,--,,vratinsrivastava10
+vratinsrivastava10,vratinsrivastava10-sequence_7,False,Medium,2,--,--,--,--,--,--,GTAAQKAQLLQQAADNEAQAEAAAAEAKATEDKAAEKAAELDVLAAEARSEPDGEALYARYQAERDAAAEAAKATIEDLKAKADALLAAAAAARAQAAAL,vratinsrivastava10
+,vratinsrivastava10-sequence_7 #1,False,High,--,--,--,--,--,--,--,,vratinsrivastava10
+,vratinsrivastava10-sequence_7 #2,False,Medium,--,--,--,--,--,--,--,,vratinsrivastava10
+vratinsrivastava10,vratinsrivastava10-sequence_5,False,Medium,2,--,--,--,--,--,--,DLELAERLAAQLPDADEALEALRTAVTAGNLVDGAAQVLALGAAAAYRTGDVNALVLANQASSHLIRAAD,vratinsrivastava10
+,vratinsrivastava10-sequence_5 #1,False,High,--,--,--,--,--,--,--,,vratinsrivastava10
+,vratinsrivastava10-sequence_5 #2,False,Medium,--,--,--,--,--,--,--,,vratinsrivastava10
+vratinsrivastava10,vratinsrivastava10-sequence_9,False,Medium,3,--,--,--,--,--,--,ATAAKKAQLEAEAAKKEAEAAEAKAKAKQVEDDAAKKLAELDVAAGQAASTEEGPAISNAKEKEAETVKAEADAKKAKLAAQAADLKAQAAQYKQQAAAL,vratinsrivastava10
+,vratinsrivastava10-sequence_9 #1,False,Low,--,--,--,--,--,--,--,,vratinsrivastava10
+,vratinsrivastava10-sequence_9 #2,False,High,--,--,--,--,--,--,--,,vratinsrivastava10
+,vratinsrivastava10-sequence_9 #3,False,Medium,--,--,--,--,--,--,--,,vratinsrivastava10
+jvogt4,jvogt4-hotspots_only_469_03,False,High,2,--,--,--,--,--,--,METLEKRLEELRKITEEKIEELKAEAEKHLAEAAALKAADPSATAEVNANIEAAKGAKETAEVLKELTEGLEKEAKARL,jvogt4
+,jvogt4-hotspots_only_469_03 #1,False,High,--,--,--,--,--,--,--,,jvogt4
+,jvogt4-hotspots_only_469_03 #2,False,High,--,--,--,--,--,--,--,,jvogt4
+jvogt4,jvogt4-hotspots_only_302_00,False,High,2,--,--,--,--,--,--,SEEKKKEEELEKEKEKFREELEKLKEELKKLEEEVKELEKRMEEIAEREEENSEKIREKLKKLKELFKEQVKLAEKAIKEAEKALKEGDEALEKAAKKLKEYLEKSLKISEEVRKLADEFEAWAEKHLDPETVAELRSILGRLEQISLDIHLIIASLESRVEKLVDKVKK,jvogt4
+,jvogt4-hotspots_only_302_00 #1,False,High,--,--,--,--,--,--,--,,jvogt4
+,jvogt4-hotspots_only_302_00 #2,False,High,--,--,--,--,--,--,--,,jvogt4
+jvogt4,jvogt4-hotspots_only_484_01,False,High,2,--,--,--,--,--,--,STPEAEAFEKKLAALEEEKAEDLIALINAQAEAMKAAKDGDEAAKLYKEYSAKADALVAEYAAKLAKLKAE,jvogt4
+,jvogt4-hotspots_only_484_01 #1,False,High,--,--,--,--,--,--,--,,jvogt4
+,jvogt4-hotspots_only_484_01 #2,False,High,--,--,--,--,--,--,--,,jvogt4
+jvogt4,jvogt4-scfv_residues_195_06,False,High,2,--,--,--,--,--,--,KEERMRKLVTRLVLEAYYEGKEIPIFSDKEEVDALFEKIAEEVGDTRPKDETRKLLYRLAVEAQMYVLLKFCSSTSCIYWDDSLNGYLPENKPEIKKAKEEILAELEKE,jvogt4
+,jvogt4-scfv_residues_195_06 #1,False,High,--,--,--,--,--,--,--,,jvogt4
+,jvogt4-scfv_residues_195_06 #2,False,High,--,--,--,--,--,--,--,,jvogt4
+jvogt4,jvogt4-scfv_residues_006_02,False,High,2,--,--,--,--,--,--,EEKLKEYAKEYFEYVKKEFEEIWDAVTKEGKSKRLKIPIFEYKPGRTADQEAIASYAYMKLLIELCSSTSCLYWDDSLNGYLKKEDEEKVKKYIEEVIKKVKEETEKFIEEYIEKKKT,jvogt4
+,jvogt4-scfv_residues_006_02 #1,False,High,--,--,--,--,--,--,--,,jvogt4
+,jvogt4-scfv_residues_006_02 #2,False,High,--,--,--,--,--,--,--,,jvogt4
+klima.jason,klima.jason-egfr_7wmio_1_9,False,High,2,--,--,--,--,--,--,SAAEEKKKHELLTEMAVKAQKAAYLTRLILSVEGNIWAREKGLKLVKVIVWSGGNTDVFTESEEESEKIRKELEDWLWEKYGEEIYRAQRLEFEVDKLMAEDKEIAEAVNSAAPETYYDYTYDDVARLLKYTGLWKEVSSISDDALKAPNNNNWPTVNPAQKEALDAALEVAEKHMEELKELAEKYLEEYERLKKEIEEL,klima.jason
+,klima.jason-egfr_7wmio_1_9 #1,False,High,--,--,--,--,--,--,--,,klima.jason
+,klima.jason-egfr_7wmio_1_9 #2,False,High,--,--,--,--,--,--,--,,klima.jason
+klima.jason,klima.jason-egfr_moxuu_0_27,False,High,2,--,--,--,--,--,--,SEAALAAELAAREAAAAAAAFAAEAAAILAKEDESILEILKKAVEVISKTNNNWPTSVVSFALVTLISLLLAAILGVDPLALGALDAAGQRQLADAFLAAAPILTYYDYSVRLLPAAWQFLHKQPELTARDIVELLKKGPEAIKEAYDKVGPIDVVWSGGNTDPATFSTDVSKEVLEEAQKLAEELLEEIEKVEEKRKKE,klima.jason
+,klima.jason-egfr_moxuu_0_27 #1,False,High,--,--,--,--,--,--,--,,klima.jason
+,klima.jason-egfr_moxuu_0_27 #2,False,High,--,--,--,--,--,--,--,,klima.jason
+klima.jason,klima.jason-egfr_aehce_2_11,False,High,2,--,--,--,--,--,--,MTAEELAALEEKRKNEQLSLEFEAKATPYYLETLVKGLEELLETLDEYGDEVPGIWSGGNTDKMNRSGALLRNLSAVAEVVGGVYVKVALLAGEKYVESLIELGGGTYYDYDAGKQADLILTAAEKIVELVGSEEAEKLKELAEKLAEKARELAKLIKSNNNWPTEVTEEVSEEEFREFLELMLELAKKMKEFLEKLEKE,klima.jason
+,klima.jason-egfr_aehce_2_11 #1,False,High,--,--,--,--,--,--,--,,klima.jason
+,klima.jason-egfr_aehce_2_11 #2,False,High,--,--,--,--,--,--,--,,klima.jason
+klima.jason,klima.jason-egfr_aehce_2_20,False,High,2,--,--,--,--,--,--,MTEEELEEIEKKRELEQQSLLYEAKRTPYVLRTLVKGLKELLENLDSYGDTIPAIWSGGNTDTMDLSGMLLGNLSALAEVVGGFLVYVELLAGKEYVKSAIELGGGTYYDYDATAQAKLIRTVAERVVELYGSEEAEELRELALKVAEMAEELGKLIKSNNNWPTEFKEKVSREEGREILRLLAELAEKMLRFLEKLEAE,klima.jason
+,klima.jason-egfr_aehce_2_20 #1,False,High,--,--,--,--,--,--,--,,klima.jason
+,klima.jason-egfr_aehce_2_20 #2,False,High,--,--,--,--,--,--,--,,klima.jason
+klima.jason,klima.jason-egfr_7wmio_1_30,False,High,2,--,--,--,--,--,--,MAEEEERLRELRTRLAVAKARYAYLVRLILSAEGNIELRKLGAELAYVYVWSGGNTDVYTLDEEESEKLREKLTEWLWERYEEEIFEAQRAEAEVDRLMAEDPAIAEAVNGALPVTYYDYEMHPVAQLLEITGLIEEVSEIDKDALKAPNNNNWPTVDESQKEALDKALEVVEERMEELEERAERLREEAERLEREIREL,klima.jason
+,klima.jason-egfr_7wmio_1_30 #1,False,High,--,--,--,--,--,--,--,,klima.jason
+,klima.jason-egfr_7wmio_1_30 #2,False,High,--,--,--,--,--,--,--,,klima.jason
+alan.blakely,alan.blakely-design:6 n:5|mpnn:1.128|plddt:0.832|ptm:0.725|pae:9.934|rmsd:3.788,Unknown,None,3,--,--,--,--,--,--,DSECPLSHDGYCLHDGVCMYIEALDKYACNCVVGYIGERCQYRDLKWWGELEKERKEKTGITVEPFEKNRGYKKEKEVVEEIEPVKTPEEIDHPTAVRTADGTVLYVNDDGTVVIQSTQPTTMASVNAAVAKFSAKTGKTITVREADLDGYCLHDGVCMYIEALDKYACNCVVGYIGERCQYRDLK,alan.blakely
+,alan.blakely-design:6 n:5|mpnn:1.128|plddt:0.832|ptm:0.725|pae:9.934|rmsd:3.788 #1,Unknown,None,--,--,--,--,--,--,--,,alan.blakely
+,alan.blakely-design:6 n:5|mpnn:1.128|plddt:0.832|ptm:0.725|pae:9.934|rmsd:3.788 #2,Unknown,None,--,--,--,--,--,--,--,,alan.blakely
+,alan.blakely-design:6 n:5|mpnn:1.128|plddt:0.832|ptm:0.725|pae:9.934|rmsd:3.788 #3,Unknown,None,--,--,--,--,--,--,--,,alan.blakely
+gabriong,gabriong-design10,False,Medium,2,--,--,--,--,--,--,SESQENLREGAENVADRLKAENPALTDKEVEKIVDEAINKGNELDQKLRG,gabriong
+,gabriong-design10 #1,False,Medium,--,--,--,--,--,--,--,,gabriong
+,gabriong-design10 #2,False,Medium,--,--,--,--,--,--,--,,gabriong
+gabriong,gabriong-design6,False,High,2,--,--,--,--,--,--,SASMKNLELGAENVAKRLQAENPELSPEEVQKIVDEAIKKGKELDEKLKG,gabriong
+,gabriong-design6 #1,False,High,--,--,--,--,--,--,--,,gabriong
+,gabriong-design6 #2,False,High,--,--,--,--,--,--,--,,gabriong
+gabriong,gabriong-design1,Unknown,None,3,--,--,--,--,--,--,GSMSREEAQKVQELIKEANKLLYETLEAFEEAERLVEEAQRLEEEEPEVAEQKEQEALEAVKKATEGLKKAHEKVQEGVELVKDREDVKRLLEEAKEELEGAAAAEKKVVEALERGDFEEALEELERAEQEIEEVLKELAEAAKRARELIQEAESS,gabriong
+,gabriong-design1 #1,Unknown,None,--,--,--,--,--,--,--,,gabriong
+,gabriong-design1 #2,Unknown,None,--,--,--,--,--,--,--,,gabriong
+,gabriong-design1 #3,Unknown,None,--,--,--,--,--,--,--,,gabriong
+gabriong,gabriong-design2,Unknown,None,2,--,--,--,--,--,--,GSMSREEAQKVQELIKEANKLLYETLEAFEEAERLVEEAQRLEEENPEVAEQKEQEALEAVKKATEGLKKAHEKVQEGVELVKDREDVKRLLEEAKEELEGAAAAEKKVVEALERGDFEEALEELERAEQEIEEVLKELAEAAKRARELIQEAESS,gabriong
+,gabriong-design2 #1,Unknown,None,--,--,--,--,--,--,--,,gabriong
+,gabriong-design2 #2,Unknown,None,--,--,--,--,--,--,--,,gabriong
+gabriong,gabriong-design8,Unknown,None,3,--,--,--,--,--,--,SMEKETLIKQLQEAMKEASKYAKEAADKMDRAEDLMEKALKAAKEDPEKAKKLLEEAKKEAKEAIEALEKLIEALKKLKALADKSPEAAELGKLAEAAITAAEEAKKLLKEFAESKDVEEAKKLMEEAKKKLAEALTLLSAASKAAKALMEKLKAE,gabriong
+,gabriong-design8 #1,Unknown,None,--,--,--,--,--,--,--,,gabriong
+,gabriong-design8 #2,Unknown,None,--,--,--,--,--,--,--,,gabriong
+,gabriong-design8 #3,Unknown,None,--,--,--,--,--,--,--,,gabriong
+allongoldberg,allongoldberg-8714_32po(S)_34p(K),Unknown,None,2,--,--,--,--,--,--,LAQAVQQLLIEIILLILIIIWLLALLALFLASNKKLAFLAWLLKAIQQYVQILCKIVEALLQKIKKDPFPAAQHLEQLVAQLLQQIQELLQRIAQLVKQICQTPAPAALQQLVEELAQALAQLLQEIAQLVQQLCQEV,allongoldberg
+,allongoldberg-8714_32po(S)_34p(K) #1,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-8714_32po(S)_34p(K) #2,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+allongoldberg,allongoldberg-8714_32po(S)_34hp(L),Unknown,None,3,--,--,--,--,--,--,LAQAVQQLLIEIILLILIIIWLLALLALFLASNLKLAFLAWLLKAIQQYVQILCKIVEALLQKIKKDPFPAAQHLEQLVAQLLQQIQELLQRIAQLVKQICQTPAPAALQQLVEELAQALAQLLQEIAQLVQQLCQEV,allongoldberg
+,allongoldberg-8714_32po(S)_34hp(L) #1,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-8714_32po(S)_34hp(L) #2,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-8714_32po(S)_34hp(L) #3,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+allongoldberg,allongoldberg-17449’_33p(R),Unknown,None,3,--,--,--,--,--,--,DQEELAAIIFQLEALLLLLLLIFALLIKGLAGRQSWALLRWILKLIEKALQWICAALEQLLQQLQQAAPPAAEHIQRLLQQIQEQLQAILQKLAKIIEEICKKPPEPALRALIHKIAQQLAQLIEKLCEILQELAQQL,allongoldberg
+,allongoldberg-17449’_33p(R) #1,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-17449’_33p(R) #2,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-17449’_33p(R) #3,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+allongoldberg,allongoldberg-17449’_33hp(L),Unknown,None,3,--,--,--,--,--,--,DQEELAAIIFQLEALLLLLLLIFALLIKGLAGLQSWALLRWILKLIEKALQWICAALEQLLQQLQQAAPPAAEHIQRLLQQIQEQLQAILQKLAKIIEEICKKPPEPALRALIHKIAQQLAQLIEKLCEILQELAQQL,allongoldberg
+,allongoldberg-17449’_33hp(L) #1,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-17449’_33hp(L) #2,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-17449’_33hp(L) #3,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+allongoldberg,allongoldberg-17449’_33p/n(H),Unknown,None,2,--,--,--,--,--,--,DQEELAAIIFQLEALLLLLLLIFALLIKGLAGHQSWALLRWILKLIEKALQWICAALEQLLQQLQQAAPPAAEHIQRLLQQIQEQLQAILQKLAKIIEEICKKPPEPALRALIHKIAQQLAQLIEKLCEILQELAQQL,allongoldberg
+,allongoldberg-17449’_33p/n(H) #1,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+,allongoldberg-17449’_33p/n(H) #2,Unknown,None,--,--,--,--,--,--,--,,allongoldberg
+mw88,mw88-1_BACK_INTER_ENERGY1,Unknown,None,4,--,--,--,--,--,--,HAHVTQSPVILSVSPGERVSFSCRAQARIMVFFHWYQQRTNGSPRLLIFIFSWTWNNIPSRFSGSGSVDDFTLSINSVESEDIADYYCQFFMMSLFWFGPGLVQPSQSLSITCTVQKEEVYKLLLIWVRQSPGKGLEWLLMIIIYYIWMLWTPFTSRLSLHVRRDEAYVFFKMNSLQSNDTAIYYCARLVIMIFFVVAYW,mw88
+,mw88-1_BACK_INTER_ENERGY1 #1,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-1_BACK_INTER_ENERGY1 #2,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-1_BACK_INTER_ENERGY1 #3,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-1_BACK_INTER_ENERGY1 #4,Unknown,None,--,--,--,--,--,--,--,,mw88
+mw88,mw88-8_BACK_FULL_ENERGY4,Unknown,None,4,--,--,--,--,--,--,MYYYLITAFKVRRRKKRSFQAIVQNYNKIDDIDDVLAHFKRYHTITSDDEEEELSSAFHISQHLSEEYYYSVANTNLHRKKTKTSQQFDIAMWWMMWTYSHVAYYTRNNNSRQRYRMLKMIHVVQENHALVSTQVMQDADMVWIWWLWMDEEDEWTMMTWWAKWRRKKFFNLSLFLQQAVQNTNAIHFEWHFFIMEDNHH,mw88
+,mw88-8_BACK_FULL_ENERGY4 #1,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-8_BACK_FULL_ENERGY4 #2,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-8_BACK_FULL_ENERGY4 #3,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-8_BACK_FULL_ENERGY4 #4,Unknown,None,--,--,--,--,--,--,--,,mw88
+mw88,mw88-CRYSTAL_STRUCTURE:A,Unknown,None,2,--,--,--,--,--,--,MAVQISKKRKFVADGIFKAELNEFLTRELAEDGYSGVEVRVTPTRTEIIILATRTQNVLGEKGRRIRELTAVVQKRFGFPEGSVELYAEKVATRGLCAIAQAESLRYKLLGGLAVRRACYGVLRFIMESGAKGCEVVVSGKLRGQRAKSMKFVDGLMIHS,mw88
+,mw88-CRYSTAL_STRUCTURE:A #1,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-CRYSTAL_STRUCTURE:A #2,Unknown,None,--,--,--,--,--,--,--,,mw88
+mw88,mw88-10_SWAP_FOLDING_E3,Unknown,None,2,--,--,--,--,--,--,DILLLLVKNKWDYTEFESFVILLLYSQSIGTNIVIILYKQKNHIRIAFKYADESIDGVEWFMVMMMTGTDLAIIHWNWKQQTEYELMILQNNNWPTTIIAQSHDHHMHLSITCTVSGYDEYHEDDDWVRQSPGKDAKRKNRRYRTRKRTATQNKRRDENVSMDNSKSQVFFKMFFWSRQDKSHWFWFWVLTYYDYEFAFM,mw88
+,mw88-10_SWAP_FOLDING_E3 #1,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-10_SWAP_FOLDING_E3 #2,Unknown,None,--,--,--,--,--,--,--,,mw88
+mw88,mw88-9_SWAP_FULL_ENERGY3,Unknown,None,3,--,--,--,--,--,--,MWYSMFSFIFSKRKRKRFQTLQHSNYNKMDDIEDVTNTHQTTFSYLYEEEEEDHATNNQFVQMSFHEYYQHYNSAATARKYAKSMSAVEIAMIMDLDVTAHQSYDDEMLVIYWLWMEDMDAWTHWQWWVRWRKKKFMWIVTSTVTMIHWFNRRKLALARNRNRQIKWIHLFVDNQVANHNVQQHYYSHDLIFIILLEEVW,mw88
+,mw88-9_SWAP_FULL_ENERGY3 #1,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-9_SWAP_FULL_ENERGY3 #2,Unknown,None,--,--,--,--,--,--,--,,mw88
+,mw88-9_SWAP_FULL_ENERGY3 #3,Unknown,None,--,--,--,--,--,--,--,,mw88
+biolucasmachado,biolucasmachado-modeled_seq_44_0.8170051102916527,Unknown,None,4,--,--,--,--,--,--,DVNLVESGAGVVQPGQSLSLSCTASGYSISNYWVNWIRQAPGRGLAWICYIKSSGSDDPDMPFTSGFKISRDDTKNRVYLTVSSLRPEHTAVYYCVCLHKNYGNDYQFWGQGTLVTV,biolucasmachado
+,biolucasmachado-modeled_seq_44_0.8170051102916527 #1,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_44_0.8170051102916527 #2,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_44_0.8170051102916527 #3,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_44_0.8170051102916527 #4,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+biolucasmachado,biolucasmachado-modeled_seq_7_0.8568448427523303,Unknown,None,3,--,--,--,--,--,--,QIQLTQPASQVVQPGQSVSVSCQASGYTLTSYGVQWIRQAPGKGLEWLFTIFSKSKKTYNRPVASRMTYSVDTSNNMIYLQLSDLTAADTATYYCARGPTVSSGWFDLWGQGTLVSV,biolucasmachado
+,biolucasmachado-modeled_seq_7_0.8568448427523303 #1,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_7_0.8568448427523303 #2,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_7_0.8568448427523303 #3,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+biolucasmachado,biolucasmachado-modeled_seq_28_0.8430711186180512,Unknown,None,3,--,--,--,--,--,--,QVQLTEGVPGLVQPGQSLSLSCQASGYSFTGRETVWIKQSPGKGLEWIGRVWNDGSVDYNYFLESRFELSKDVSSSQVTLKGQSMQSEDTAVYYCAWEPTVYSDYFDVWGQGTMVTV,biolucasmachado
+,biolucasmachado-modeled_seq_28_0.8430711186180512 #1,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_28_0.8430711186180512 #2,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_28_0.8430711186180512 #3,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+biolucasmachado,biolucasmachado-modeled_seq_20_0.8425151410743467,False,Low,2,--,--,--,--,--,--,GQDLQESGGGLVEPDKTLSLTCKTSGYSITSYTYHWVRQVPGKGLEWLHRSRSSSGTSFNSALTSRIYSSEDVSNNVVTLTMRSLITDDTAVYYCARESTVYISYFDSWMQGTLVTV,biolucasmachado
+,biolucasmachado-modeled_seq_20_0.8425151410743467 #1,False,Low,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_20_0.8425151410743467 #2,False,Low,--,--,--,--,--,--,--,,biolucasmachado
+biolucasmachado,biolucasmachado-modeled_seq_8_0.812666993524529,Unknown,None,3,--,--,--,--,--,--,QQQLVESGPGVIKPGHKFNLDCSATGYTVTSYAISWIRQKSGESLEWLLTISSTANVDKWGPAMSRVAASRDDSKSMVYLKLDSLTTDDSGVYYCARHYTNYYNAFDYWGKGTMVTG,biolucasmachado
+,biolucasmachado-modeled_seq_8_0.812666993524529 #1,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_8_0.812666993524529 #2,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+,biolucasmachado-modeled_seq_8_0.812666993524529 #3,Unknown,None,--,--,--,--,--,--,--,,biolucasmachado
+carlos.bueno,carlos.bueno-WWB53,Unknown,None,2,--,--,--,--,--,--,MYEVSAQQKQQKTSRQSNTHHTVHIYNKIDEIVIFVVAEKKTQITVVVEEIEEEADQARKDAQYHYDHYDFYFYSNRTDNKSKAQVFFFIAMWWDMWFAHHENRSKRNNSYTITLKNTRMLHMLLFLFYVQRQDYFHMHMMLWIWWLWMDDEDSWESSSWWLRWKRATLALSHNTNDQRNRYNYVMLVIWHFFIMEITLA,carlos.bueno
+,carlos.bueno-WWB53 #1,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+,carlos.bueno-WWB53 #2,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+carlos.bueno,carlos.bueno-WWB11,Unknown,None,2,--,--,--,--,--,--,FFDARAWKRDYSKKQQDQTQYSIEFWFWFEELLLVVIIHRHSHMVIVLEWLDDTMSHMQTKVYMTMDWSRYTMTATQAQKNLNMWMIVLFLIFEFIEYWYTRLAMAMSVLLYYLVFEDWEQAKNSQAAAKAKHQHYHVNWNNWNSWDRNEWKNNNNQQHHHTRSHKAKVYEYMVIDTDDRRRSRYIVTEDFFIFIEISTM,carlos.bueno
+,carlos.bueno-WWB11 #1,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+,carlos.bueno-WWB11 #2,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+carlos.bueno,carlos.bueno-WWB62,Unknown,None,2,--,--,--,--,--,--,AFEVSMKSSQRNQRNNQNSSISIDVWFWFEELYILILMNNKQSMTALIEEIDDYWWNRQWWLTMTMESRSITLQLNNWQKNLNMSIIMYIVFFWFIVMMKDHRQHRHKRDTKYHTHHNHLKAEAYYVVMTDQRRDVYVAMFILLYYLVFEDEEAAHWSTAAAKAKHHKYDTKYDHQRRDDQSQTVVVWEYWFFFAEFTWM,carlos.bueno
+,carlos.bueno-WWB62 #1,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+,carlos.bueno-WWB62 #2,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+carlos.bueno,carlos.bueno-WWB65,Unknown,None,2,--,--,--,--,--,--,SWSTTQSPVILSVSPGERVSFSCRAWFWWEDVQHWYQQRTNGSPRLLIDYENETTMHIPSRFSGSGSSTHFTLSINSVESEDIADYYCQVIILIVIDFGGKGLEWLGVMVLYYLQFHNTPFTSRLSASNKAKRRQVFFKMNSLQSNPGLVQPSQSLSITCTVRHMRKKANMNQWVRQSPDTAIYYCARADYFFLAEQAYW,carlos.bueno
+,carlos.bueno-WWB65 #1,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+,carlos.bueno-WWB65 #2,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+carlos.bueno,carlos.bueno-WWB7,Unknown,None,2,--,--,--,--,--,--,HMHYSAKHNHWHEHNNQHKRYEFEITIEIRSLFYFFEANYHWTYYVAFISFWHYAWNFNWQFYAWAEWRRFAFEATNANNQWNKWFAFVIIWMEVLIAKEKEAEMLILIIMMYLMMMISQMQHQRDLRLDDKHKTLDLRDWQSSSSRDQRSTQYNRDKKTQTDKTDIKTTVILLVRKRSDQSDDVLVTVYMFYVLVVMWV,carlos.bueno
+,carlos.bueno-WWB7 #1,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+,carlos.bueno-WWB7 #2,Unknown,None,--,--,--,--,--,--,--,,carlos.bueno
+"T
+tobiasoverme",tobiasoverme-seq22,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGRSISTYYIHWFRQAPGKEREFVSGISAGSVSIGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAAAVILGAQIDYLGLDTWGQGTQVTVSS,"T
+tobiasoverme"
+,tobiasoverme-seq22 #1,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+,tobiasoverme-seq22 #2,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+"T
+tobiasoverme",tobiasoverme-seq26,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGRTFNDYDMDWFRQAPGKEREFVSGIRAYDDNTGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAAALTGHTTATGFTFDVWGQGTQVTVSS,"T
+tobiasoverme"
+,tobiasoverme-seq26 #1,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+,tobiasoverme-seq26 #2,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+"T
+tobiasoverme",tobiasoverme-seq20,False,Low,3,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGRTLDRYFIEWFRQAPGKEREFVSGRRESPSEGGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAAAQYASRGYVYCIFQITGQGTQVTVSS,"T
+tobiasoverme"
+,tobiasoverme-seq20 #1,Unknown,None,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+,tobiasoverme-seq20 #2,Unknown,None,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+,tobiasoverme-seq20 #3,False,Low,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+"T
+tobiasoverme",tobiasoverme-seq19,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGRSITSYGTNWFRQAPGKEREFVSGIETWSGNTGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAAASILCGACYARDLNTWGQGTQVTVSS,"T
+tobiasoverme"
+,tobiasoverme-seq19 #1,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+,tobiasoverme-seq19 #2,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+"T
+tobiasoverme",tobiasoverme-seq18,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGRPFSSYSMAWFRQAPGKEREFVSGVSGGSGYSGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAAASGSRGISRASGQDRWGQGTQVTVSS,"T
+tobiasoverme"
+,tobiasoverme-seq18 #1,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+,tobiasoverme-seq18 #2,False,High,--,--,--,--,--,--,--,,"T
+tobiasoverme"
+joaosartori2,joaosartori2-design1,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGVNINSYYIYWFRQAPGKEREFVSYISGSSGNTGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAARYSSSSSSSSYSVDYWGQGTQVTVSS,joaosartori2
+,joaosartori2-design1 #1,False,High,--,--,--,--,--,--,--,,joaosartori2
+,joaosartori2-design1 #2,False,High,--,--,--,--,--,--,--,,joaosartori2
+joaosartori2,joaosartori2-design8,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGVNINSYYIYWFRQAPGKEREFVSYISSSSGNTGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAARYSSSSYYSSYSVDYWGQGTQVTVSS,joaosartori2
+,joaosartori2-design8 #1,False,High,--,--,--,--,--,--,--,,joaosartori2
+,joaosartori2-design8 #2,False,High,--,--,--,--,--,--,--,,joaosartori2
+joaosartori2,joaosartori2-design4,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGVNINSYYIYWFRQAPGKEREFVSYISGSGSNAGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAARYSSSSYYSSYSVDYWGQGTQVTVSS,joaosartori2
+,joaosartori2-design4 #1,False,High,--,--,--,--,--,--,--,,joaosartori2
+,joaosartori2-design4 #2,False,High,--,--,--,--,--,--,--,,joaosartori2
+joaosartori2,joaosartori2-design5,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGVNINSYYIYWFRQAPGKEREFVSYISGSSGNSGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAARYYSSSYYSSYYVDYWGQGTQVTVSS,joaosartori2
+,joaosartori2-design5 #1,False,High,--,--,--,--,--,--,--,,joaosartori2
+,joaosartori2-design5 #2,False,High,--,--,--,--,--,--,--,,joaosartori2
+joaosartori2,joaosartori2-design7,False,High,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGVNINSYYIYWFRQAPGKEREFVSYISSSSGNTGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAARYSSSSSSSSYTVDYWGQGTQVTVSS,joaosartori2
+,joaosartori2-design7 #1,False,High,--,--,--,--,--,--,--,,joaosartori2
+,joaosartori2-design7 #2,False,High,--,--,--,--,--,--,--,,joaosartori2
+cchallacombe,cchallacombe-diff_1,Unknown,None,2,--,--,--,--,--,--,AVSLSQSGTTKVKPGESLTITFTYSNLPADAAVSWARENSTDGTVWIGSVTIAPAPQTEVNDAYKDRVTITYDAASKTVTLTITNLTPADTATYYAGVKGWFDDDSISSVTDWSQGVTVTVTAAA,cchallacombe
+,cchallacombe-diff_1 #1,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+,cchallacombe-diff_1 #2,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+cchallacombe,cchallacombe-dock_if3,Unknown,None,2,--,--,--,--,--,--,AVSITESGEGKVKTGGTLTINCKVSGFSLKDRPVYWYRKNEENGEIFLGVVYADGTTEYAPEYKDRLKITKNDANNVVTLTLTNVTPEDTATYYCGVASSPGGSNLSTWGQGVKVTVTDEP,cchallacombe
+,cchallacombe-dock_if3 #1,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+,cchallacombe-dock_if3 #2,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+cchallacombe,cchallacombe-it_design1,Unknown,None,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAVSGRTSRSYGMGWFRQAPGKEREFVSGISWRGDSTGYADSVKGRFTISRDNAKNTVDLQMNSLKPEDTAIYYCAALFIPINDAFDYWGQGTQVTVSS,cchallacombe
+,cchallacombe-it_design1 #1,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+,cchallacombe-it_design1 #2,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+cchallacombe,cchallacombe-thermo1,Unknown,None,2,--,--,--,--,--,--,EVQLVESGGGLVQAGGSLRLSCAASGRTFSSYIMGWFRQAPGKEREFVVGINWSSGSTYYADSVKGRFTISRDNAKNTMYLQMNSLKPEDTAVYYCAAGYQINSGNYNFKDYYYDYWGQGTQVTVSS,cchallacombe
+,cchallacombe-thermo1 #1,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+,cchallacombe-thermo1 #2,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+cchallacombe,cchallacombe-anti_1,Unknown,None,2,--,--,--,--,--,--,QVKLEESGGGSVQTGGSLRLTCAASGRTSRSYGMGWFRQAPGKEREFVSGISLNGSNTGYADSVEGRFTISRDNAKNSVSLQMNSLRSEDTAVYYCAAHVGWDYHDVAEYYDYWGQGTQVTV,cchallacombe
+,cchallacombe-anti_1 #1,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+,cchallacombe-anti_1 #2,Unknown,None,--,--,--,--,--,--,--,,cchallacombe
+brett,brett-egfr_vhh_0006h,Unknown,None,2,--,--,--,--,--,--,EVQLQERLSCAASGSSFSSYAMNWVRQAPGKGLEWVSAISWSGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARARYYYSSYYYGYYDSDSGYDYWGQLVTVTS,brett
+,brett-egfr_vhh_0006h #1,Unknown,None,--,--,--,--,--,--,--,,brett
+,brett-egfr_vhh_0006h #2,Unknown,None,--,--,--,--,--,--,--,,brett
+brett,brett-egfr_vhh_0007h,Unknown,None,3,--,--,--,--,--,--,EVQLQERLSCAASGFILSRYAMNWVRQAPGKGLEWVSAISSSGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRPEDTAVYYCARSSGGCYYDYYYYTLYQVSYDYWGQLVTVTS,brett
+,brett-egfr_vhh_0007h #1,Unknown,None,--,--,--,--,--,--,--,,brett
+,brett-egfr_vhh_0007h #2,Unknown,None,--,--,--,--,--,--,--,,brett
+,brett-egfr_vhh_0007h #3,Unknown,None,--,--,--,--,--,--,--,,brett
+brett,brett-egfr_vhh_0001h,Unknown,None,2,--,--,--,--,--,--,EVQLQERLSCAASGFDFSSYAMNWVRQAPGKGLEWVAAISWSGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRPEDTAVYYCARGYGYGGSRCRCVCWDSTEYDYWGQLVTVTS,brett
+,brett-egfr_vhh_0001h #1,Unknown,None,--,--,--,--,--,--,--,,brett
+,brett-egfr_vhh_0001h #2,Unknown,None,--,--,--,--,--,--,--,,brett
+brett,brett-egfr_vhh_0005h,Unknown,None,2,--,--,--,--,--,--,EVQLQERLSCAASGFTFSSYAMNWVRQAPGKGLEWVSAISSSGGSTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAKKGYRSYGSSFRFWVTSTSYDYWGQLVTVTS,brett
+,brett-egfr_vhh_0005h #1,Unknown,None,--,--,--,--,--,--,--,,brett
+,brett-egfr_vhh_0005h #2,Unknown,None,--,--,--,--,--,--,--,,brett
+brett,brett-egfr_vhh_0004h,Unknown,None,2,--,--,--,--,--,--,EVQLQERLSCAASGSSFSSYAMNWVRQAPGKGLEWVSAISSSGGRTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCARGGQYRYSGFSCSYSSTSYYDFWGQGVTVTS,brett
+,brett-egfr_vhh_0004h #1,Unknown,None,--,--,--,--,--,--,--,,brett
+,brett-egfr_vhh_0004h #2,Unknown,None,--,--,--,--,--,--,--,,brett
+colby,"colby-TUPEGFR_003 | anti-EGFR, Fv-like protein, diffused with EvoDiff",False,Medium,3,--,--,--,--,--,--,GERVTITATVSESIAESNEEYYLHAYQQKPGRSLKLFGYEASSLETAVPSHFSGSGAGTDFNFTMTALFPEDFATYYRQFYNSQFATFGQGTLVFIKGGGGGGGGGGVGERVTITATVSESIAESNEEYYLHAYQQKPGRSLKLFGYEASSLETAVPSHFSGSGAGTDFNFTMTALFPEDFATYYRQFYNSQFATFGQGT,colby
+,"colby-TUPEGFR_003 | anti-EGFR, Fv-like protein, diffused with EvoDiff #1",False,Low,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_003 | anti-EGFR, Fv-like protein, diffused with EvoDiff #2",False,High,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_003 | anti-EGFR, Fv-like protein, diffused with EvoDiff #3",False,Low,--,--,--,--,--,--,--,,colby
+colby,"colby-TUPEGFR_013 | anti-EGFR, Fv-like protein, diffused with EvoDiff",False,Medium,3,--,--,--,--,--,--,AMRTTITCRTAESPDINNGITDTTWSQQKPGKSAQLLIYYSKVLANDVTSRFSGSGIGTEFTQRKNTKEAEEFAIFFCDYYNETDNTYNNGTKLEISGGGGGGGGGGFAMRTTITCRTAESPDINNGITDTTWSQQKPGKSAQLLIYYSKVLANDVTSRFSGSGIGTEFTQRKNTKEAEEFAIFFCDYYNETDNTYNNGT,colby
+,"colby-TUPEGFR_013 | anti-EGFR, Fv-like protein, diffused with EvoDiff #1",False,Medium,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_013 | anti-EGFR, Fv-like protein, diffused with EvoDiff #2",False,High,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_013 | anti-EGFR, Fv-like protein, diffused with EvoDiff #3",False,Low,--,--,--,--,--,--,--,,colby
+colby,"colby-TUPEGFR_017 | anti-EGFR, Fv-like protein, diffused with ESM3",Unknown,None,3,--,--,--,--,--,--,SQSLSITCTVSGFDLTSYMSWVRQSPGKGLEWLGAIWWDGTTQYNPSLKTRLSINKDNSKSQVFFKMNSLQSNDTAIYYCARDAGGYDHPYMDHWGQGGGGGGGGGGPGERVSFSCRASQSVVASSYLAWYQQRTNGSPRLLIKGASSLESGIPSRFSGSGSGTDFTLSINSVESEDIADYYCQQSTDSPPTFGAGTKLE,colby
+,"colby-TUPEGFR_017 | anti-EGFR, Fv-like protein, diffused with ESM3 #1",Unknown,None,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_017 | anti-EGFR, Fv-like protein, diffused with ESM3 #2",Unknown,None,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_017 | anti-EGFR, Fv-like protein, diffused with ESM3 #3",Unknown,None,--,--,--,--,--,--,--,,colby
+colby,"colby-TUPEGFR_010 | anti-EGFR, Fv-like protein, diffused with EvoDiff",False,Medium,2,--,--,--,--,--,--,GESTHLTCQASDDISPAHGINYLNWHEKKPGLALDLFIYDGSNLETGAKSRFTSANSGTDFTFTMSSLEPEDAAVYYFEFFDEVPFTFGGGTKAEISGGGGGGGGGGTGESTHLTCQASDDISPAHGINYLNWHEKKPGLALDLFIYDGSNLETGAKSRFTSANSGTDFTFTMSSLEPEDAAVYYFEFFDEVPFTFGGGT,colby
+,"colby-TUPEGFR_010 | anti-EGFR, Fv-like protein, diffused with EvoDiff #1",False,Medium,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_010 | anti-EGFR, Fv-like protein, diffused with EvoDiff #2",False,High,--,--,--,--,--,--,--,,colby
+colby,"colby-TUPEGFR_018 | anti-EGFR, Fv-like protein, diffused with ESM3",Unknown,None,2,--,--,--,--,--,--,SQSLSITCTVSGFDLTSYGVHWVRQSPGKGLEWLGVIWSDGSTDYNPSLKSRLSINKDNSKSQVFFKMNSLQSNDTAIYYCARDGGGYGSFDYWGQGTLGGGGGGGGGGPGERVSFSCRASQSVGSYLAWYQQRTNGSPRLLIKAASTLESGIPSRFSGSGSGTDFTLSINSVESEDIADYYCQQYSNIPPLTFGAGTKL,colby
+,"colby-TUPEGFR_018 | anti-EGFR, Fv-like protein, diffused with ESM3 #1",Unknown,None,--,--,--,--,--,--,--,,colby
+,"colby-TUPEGFR_018 | anti-EGFR, Fv-like protein, diffused with ESM3 #2",Unknown,None,--,--,--,--,--,--,--,,colby
+tim,tim-silica_corpora_sampled_epitope_0_generated_variant_7_rank_4,False,High,2,--,--,--,--,--,--,EVQLVESGGGLVQPGGSLRLSCAASGFTSSNNPMGWFRQAPGKGRELVAAISQSGASTNYPDSVEGRFTISRDNAKRMVYLQMNSLRAEDTAVYYCAAAGVRATDDCFDVTSTTYDYWGQGTQVTVSS,tim
+,tim-silica_corpora_sampled_epitope_0_generated_variant_7_rank_4 #1,False,High,--,--,--,--,--,--,--,,tim
+,tim-silica_corpora_sampled_epitope_0_generated_variant_7_rank_4 #2,False,High,--,--,--,--,--,--,--,,tim
+tim,tim-silica_corpora_sampled_epitope_1_generated_variant_17_rank_6,Unknown,None,2,--,--,--,--,--,--,QVQLVESGGGLVKPGGSLRLSCAASGFTSSSYAAAWFRQAPGKEREFVSAIWWGKTATYADSVKGRFTISRDNAKNSLYLQMNSLRAEDTAVYYCAAVFRGANYDGGYEYDYWGQGTLVTVSS,tim
+,tim-silica_corpora_sampled_epitope_1_generated_variant_17_rank_6 #1,Unknown,None,--,--,--,--,--,--,--,,tim
+,tim-silica_corpora_sampled_epitope_1_generated_variant_17_rank_6 #2,Unknown,None,--,--,--,--,--,--,--,,tim
+tim,tim-silica_corpora_sampled_epitope_6_generated_variant_18_rank_10,Unknown,None,2,--,--,--,--,--,--,QVQLVESGGGLVKPGGSLRLSCAASGGTSSSYAAAWFRQAPGKEREFVSAISSGKTATYADSVKGRFTISRDNAKNSLYLQMNSLRAEDTAVYYCAAVFRTLLYGTLYEYDYWGQGTLVTVSS,tim
+,tim-silica_corpora_sampled_epitope_6_generated_variant_18_rank_10 #1,Unknown,None,--,--,--,--,--,--,--,,tim
+,tim-silica_corpora_sampled_epitope_6_generated_variant_18_rank_10 #2,Unknown,None,--,--,--,--,--,--,--,,tim
+tim,tim-silica_corpora_sampled_epitope_0_generated_variant_10_rank_8,False,Medium,2,--,--,--,--,--,--,EVQLLESGGGEVQPGGSLRLSCAASGSTFSNYGMGWFRQAPGKEREFVSAISWSGDTVYYAESVKGRFTISRDNAKNTLYLQMSSLRAEDTAVYYCAVTIRAETSYSEEYDYWGQGTLVTVKPG,tim
+,tim-silica_corpora_sampled_epitope_0_generated_variant_10_rank_8 #1,False,Medium,--,--,--,--,--,--,--,,tim
+,tim-silica_corpora_sampled_epitope_0_generated_variant_10_rank_8 #2,False,Medium,--,--,--,--,--,--,--,,tim
+tim,tim-silica_corpora_sampled_epitope_1_generated_variant_15_rank_3,False,Low,2,--,--,--,--,--,--,QVQLVESGGGLVKPGGSLRLSCAASGSTSSNYAAAWFRQAPGKEREFVSAISWGKTATYADSVKGRFTISRDNAKNSLYLQMNSLRAEDTAVYYCAAVFRIGTWDASYEYDYWGQGTLVTVSS,tim
+,tim-silica_corpora_sampled_epitope_1_generated_variant_15_rank_3 #1,False,Low,--,--,--,--,--,--,--,,tim
+,tim-silica_corpora_sampled_epitope_1_generated_variant_15_rank_3 #2,False,Low,--,--,--,--,--,--,--,,tim
+ahmedsameh,ahmedsameh-y4,Unknown,None,4,--,--,--,--,--,--,QVQLQESGGGLVQPGGSLRLSCAASGRTFSSYAMGWFRQAPGKQREFVAAIRWSGGYTYYTDSVKGRFTISRDNAKTTVYLQMNSLKPEDTAVYYCAATYLSSDYSRYALPQRPLDYDYWGQGTQVTVSSLE,ahmedsameh
+,ahmedsameh-y4 #1,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+,ahmedsameh-y4 #2,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+,ahmedsameh-y4 #3,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+,ahmedsameh-y4 #4,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+ahmedsameh,ahmedsameh-y6,Unknown,None,3,--,--,--,--,--,--,QVQLQESGGGLVQPGGSLRLSCAASGRTFSSYAMGWFRQAPGKQREFVAAIRWSGGYTYYTDSVKGRFTISRDNAKTTVYLQMNSLKPEDTAVYYCAATYLSSDYSHYALPQRPLDYDYWGQGTQVTVSSLE,ahmedsameh
+,ahmedsameh-y6 #1,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+,ahmedsameh-y6 #2,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+,ahmedsameh-y6 #3,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+ahmedsameh,ahmedsameh-s3,False,Low,2,--,--,--,--,--,--,QVQLQESGGGLVQPGGSLRLSCAASGRTFSSYAMGWFRQAPGKQREFVAAIRWSGGYTYYTDSVKGRFTISRDNAKTTVYLQMNSLKPEDTAVYYCAATYLRSDYSRYALPQRPLDYDYWGQGTQVTVSSLE,ahmedsameh
+,ahmedsameh-s3 #1,Unknown,None,--,--,--,--,--,--,--,,ahmedsameh
+,ahmedsameh-s3 #2,False,Low,--,--,--,--,--,--,--,,ahmedsameh
+akshaychenna,akshayc-10_run_3_1002_dldesign_0_cycle1_af2pred,Unknown,None,3,--,--,--,--,--,--,GTSESLAKLQFIKDLAAALAPLDKKREEAEKKLYEEIKKLVPEGAEEVYEEILRYADKVYTAASDAAYLKASGGDAAAEEAYLKKLIEEEVKKLEKKYGPEVAKLAREYMEVMAELGYQAGLLAYQLEKS,akshaychenna
+,akshayc-10_run_3_1002_dldesign_0_cycle1_af2pred #1,Unknown,None,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-10_run_3_1002_dldesign_0_cycle1_af2pred #2,Unknown,None,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-10_run_3_1002_dldesign_0_cycle1_af2pred #3,Unknown,None,--,--,--,--,--,--,--,,akshaychenna
+akshaychenna,akshayc-9_run_3_1002_dldesign_0_cycle1_af2pred,False,Low,3,--,--,--,--,--,--,GISESLAMLEFLKKLAEALAPLTKIEEEAEKELKEKIKELVPEGSEEVYEEILRDADKVRTAASDAASLEAEGGDYKAEQDYLDTLKAESIKKIEEKYGKEVADLAKKYFDIKAKIGYEEGKIAVELEKK,akshaychenna
+,akshayc-9_run_3_1002_dldesign_0_cycle1_af2pred #1,False,Medium,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-9_run_3_1002_dldesign_0_cycle1_af2pred #2,False,Low,--,--,--,--,--,--,--,,akshaychenna
+,akshayc-9_run_3_1002_dldesign_0_cycle1_af2pred #3,Unknown,None,--,--,--,--,--,--,--,,akshaychenna
+deepsatflow,deepsatlow-design:0 n:0|mpnn:1.164|plddt:0.823|i_ptm:0.756|i_pae:15.687|rmsd:2.555,False,High,2,--,--,--,--,--,--,SLKEKEEKLIEELEEELKKIKEEYEKKIKEYLEEGNIEKAEKLKEELKKIRKEKGDELIKELLQLHLET,deepsatflow
+,deepsatlow-design:0 n:0|mpnn:1.164|plddt:0.823|i_ptm:0.756|i_pae:15.687|rmsd:2.555 #1,False,High,--,--,--,--,--,--,--,,deepsatflow
+,deepsatlow-design:0 n:0|mpnn:1.164|plddt:0.823|i_ptm:0.756|i_pae:15.687|rmsd:2.555 #2,False,High,--,--,--,--,--,--,--,,deepsatflow
