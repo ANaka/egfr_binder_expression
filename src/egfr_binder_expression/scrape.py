@@ -8,10 +8,21 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from tqdm import tqdm
 import pandas as pd
+import typer
 
 # necessary to do this because deposited datasets only contain sequences screened for binding ie lack ones that didn't express
 
-def setup_and_load_page(url='https://foundry.adaptyvbio.com/egfr_design_competition', visible=False):
+def setup_and_load_page(url: str = 'https://foundry.adaptyvbio.com/egfr_design_competition', visible: bool = False) -> webdriver.Chrome:
+    """
+    Set up the Chrome WebDriver and load the specified page.
+
+    Args:
+        url (str): The URL to load. Defaults to the EGFR design competition page.
+        visible (bool): Whether to show the browser window. Defaults to False.
+
+    Returns:
+        webdriver.Chrome: The configured WebDriver instance.
+    """
     chrome_options = Options()
     if not visible:
         chrome_options.add_argument("--headless")
@@ -35,7 +46,16 @@ def setup_and_load_page(url='https://foundry.adaptyvbio.com/egfr_design_competit
     return driver
 
 
-def expand_rows(driver):
+def expand_rows(driver: webdriver.Chrome) -> bool:
+    """
+    Expand all rows in the table by clicking on each row's chevron icon.
+
+    Args:
+        driver (webdriver.Chrome): The WebDriver instance.
+
+    Returns:
+        bool: True if the operation was successful.
+    """
     table_body = WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "#radix-\\:r6\\:-content-results > div > div.rounded-md.mt-4.border-slate-100.bg-white.border > div > table > tbody"))
     )
@@ -70,8 +90,16 @@ def expand_rows(driver):
         
     return True
 
-def extract_data(driver):
-    
+def extract_data(driver: webdriver.Chrome) -> list:
+    """
+    Extract data from the expanded rows in the table.
+
+    Args:
+        driver (webdriver.Chrome): The WebDriver instance.
+
+    Returns:
+        list: A list of dictionaries containing the extracted data.
+    """
     table_body = WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "#radix-\\:r6\\:-content-results > div > div.rounded-md.mt-4.border-slate-100.bg-white.border > div > table > tbody"))
     )
@@ -112,7 +140,16 @@ def extract_data(driver):
         datas.append(data_dict)
     return datas
 
-def next_page(driver):
+def next_page(driver: webdriver.Chrome) -> bool:
+    """
+    Navigate to the next page of results.
+
+    Args:
+        driver (webdriver.Chrome): The WebDriver instance.
+
+    Returns:
+        bool: True if successfully navigated to the next page, False otherwise.
+    """
     # Scroll to the bottom of the page
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(2)
@@ -128,7 +165,16 @@ def next_page(driver):
     except:
         return False
 
-def scrape_all_pages(visible=False):
+def scrape_all_pages(visible: bool = False) -> list:
+    """
+    Scrape data from all pages of the EGFR design competition results.
+
+    Args:
+        visible (bool): Whether to show the browser window. Defaults to False.
+
+    Returns:
+        list: A list of dictionaries containing all scraped data.
+    """
     driver = setup_and_load_page(visible=visible)
     
     all_data = []
@@ -150,9 +196,17 @@ def scrape_all_pages(visible=False):
     driver.quit()
     return all_data
 
-if __name__ == '__main__':
-    visible_browser = input("Do you want to see the browser while scraping? (y/n): ").lower() == 'y'
-    data = scrape_all_pages(visible=visible_browser)
+def main(visible: bool = typer.Option(False, "--visible", "-v", help="Show the browser window while scraping")):
+    """
+    Main function to run the scraper and save the results.
+
+    Args:
+        visible (bool): Whether to show the browser window while scraping.
+    """
+    data = scrape_all_pages(visible=visible)
     df = pd.DataFrame(data)
     df.to_csv('data/scraped_egfr_binder_expression.csv', index=False)
     print(f"Scraped {len(data)} rows of data.")
+
+if __name__ == '__main__':
+    typer.run(main)
