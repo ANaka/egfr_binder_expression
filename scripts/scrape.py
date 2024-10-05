@@ -67,7 +67,7 @@ def expand_rows(driver: webdriver.Chrome) -> bool:
     for row in rows:
         
         try:
-            # Find the clickable element within the row (the chevron icon)
+            # Find the clickable element within the row 
             clickable_element = row.find_element(By.CSS_SELECTOR, "td:nth-child(1) > div.font-medium.flex.items-center.whitespace-nowrap")
 
 
@@ -191,7 +191,7 @@ def scrape_all_pages(visible: bool = False) -> list:
             page += 1
             pbar.update(1)
             
-            if page >= 20:  # Limit to 20 pages
+            if page >= 21:  # Limit to 20 pages
                 break
     
     driver.quit()
