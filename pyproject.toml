@@ -3,12 +3,15 @@ name = "egfr-binder-expression"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=6.29.5",
+    "peft>=0.13.0",
     "polaris-lib>=0.8.6",
-    "pyreft>=0.0.7",
-    "torch>=2.4.1",
+    "torch",
+    "torchvision",
+    "torchaudio",
+    "datasets>=3.0.1",
 ]
 
 [build-system]
